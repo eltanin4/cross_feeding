@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="name" attr.type="string" for="graph" id="d0" />
+  <graph edgedefault="directed">
+    <data key="d0">()</data>
+    <node id="O-Phospho-L-serine" />
+    <node id="Fumarate" />
+    <node id="L-Serine" />
+    <node id="D-Ribose 5-phosphate" />
+    <node id="3-Phosphonooxypyruvate" />
+    <node id="Oxalosuccinate" />
+    <node id="L-Glutamate" />
+    <node id="2-Oxoglutarate" />
+    <node id="Orthophosphate" />
+    <node id="L-Glutamine" />
+    <node id="Pyruvate" />
+    <node id="Oxaloacetate" />
+    <node id="5-Phospho-alpha-D-ribose 1-diphosphate" />
+    <node id="L-Alanine" />
+    <node id="AMP" />
+    <node id="Phosphoenolpyruvate" />
+    <node id="(S)-Malate" />
+    <edge source="O-Phospho-L-serine" target="L-Serine" />
+    <edge source="O-Phospho-L-serine" target="Orthophosphate" />
+    <edge source="O-Phospho-L-serine" target="L-Glutamate" />
+    <edge source="O-Phospho-L-serine" target="3-Phosphonooxypyruvate" />
+    <edge source="5-Phospho-alpha-D-ribose 1-diphosphate" target="D-Ribose 5-phosphate" />
+    <edge source="Oxalosuccinate" target="2-Oxoglutarate" />
+    <edge source="2-Oxoglutarate" target="3-Phosphonooxypyruvate" />
+    <edge source="2-Oxoglutarate" target="L-Glutamate" />
+    <edge source="AMP" target="D-Ribose 5-phosphate" />
+    <edge source="Pyruvate" target="Orthophosphate" />
+    <edge source="Pyruvate" target="L-Alanine" />
+    <edge source="Pyruvate" target="AMP" />
+    <edge source="Pyruvate" target="2-Oxoglutarate" />
+    <edge source="Pyruvate" target="Phosphoenolpyruvate" />
+    <edge source="(S)-Malate" target="Oxaloacetate" />
+    <edge source="(S)-Malate" target="Pyruvate" />
+    <edge source="(S)-Malate" target="Fumarate" />
+    <edge source="Orthophosphate" target="Phosphoenolpyruvate" />
+    <edge source="L-Glutamate" target="L-Alanine" />
+    <edge source="L-Glutamate" target="2-Oxoglutarate" />
+    <edge source="L-Glutamate" target="L-Glutamine" />
+    <edge source="Oxaloacetate" target="Phosphoenolpyruvate" />
+  </graph>
+</graphml>

@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="name" attr.type="string" for="graph" id="d0" />
+  <graph edgedefault="directed">
+    <data key="d0">()</data>
+    <node id="O-Phospho-L-serine" />
+    <node id="Fumarate" />
+    <node id="L-Serine" />
+    <node id="D-Ribose 5-phosphate" />
+    <node id="3-Phosphonooxypyruvate" />
+    <node id="Oxalosuccinate" />
+    <node id="L-Glutamate" />
+    <node id="2-Oxoglutarate" />
+    <node id="NADH" />
+    <node id="ATP" />
+    <node id="Orthophosphate" />
+    <node id="L-Glutamine" />
+    <node id="NAD+" />
+    <node id="ADP" />
+    <node id="Pyruvate" />
+    <node id="Oxaloacetate" />
+    <node id="CO2" />
+    <node id="5-Phospho-alpha-D-ribose 1-diphosphate" />
+    <node id="L-Alanine" />
+    <node id="H2O" />
+    <node id="NADPH" />
+    <node id="AMP" />
+    <node id="NADP+" />
+    <node id="Phosphoenolpyruvate" />
+    <node id="(S)-Malate" />
+    <node id="H+" />
+    <edge source="O-Phospho-L-serine" target="L-Serine" />
+    <edge source="O-Phospho-L-serine" target="Orthophosphate" />
+    <edge source="O-Phospho-L-serine" target="L-Glutamate" />
+    <edge source="O-Phospho-L-serine" target="3-Phosphonooxypyruvate" />
+    <edge source="5-Phospho-alpha-D-ribose 1-diphosphate" target="ATP" />
+    <edge source="5-Phospho-alpha-D-ribose 1-diphosphate" target="D-Ribose 5-phosphate" />
+    <edge source="Pyruvate" target="L-Alanine" />
+    <edge source="Pyruvate" target="2-Oxoglutarate" />
+    <edge source="Pyruvate" target="Orthophosphate" />
+    <edge source="Pyruvate" target="Phosphoenolpyruvate" />
+    <edge source="Pyruvate" target="AMP" />
+    <edge source="Pyruvate" target="ADP" />
+    <edge source="Oxaloacetate" target="Phosphoenolpyruvate" />
+    <edge source="Oxaloacetate" target="H2O" />
+    <edge source="Oxaloacetate" target="ADP" />
+    <edge source="Oxaloacetate" target="CO2" />
+    <edge source="H2O" target="L-Serine" />
+    <edge source="H2O" target="Orthophosphate" />
+    <edge source="H2O" target="Phosphoenolpyruvate" />
+    <edge source="H2O" target="AMP" />
+    <edge source="Oxalosuccinate" target="2-Oxoglutarate" />
+    <edge source="Oxalosuccinate" target="CO2" />
+    <edge source="L-Glutamate" target="NADPH" />
+    <edge source="L-Glutamate" target="L-Alanine" />
+    <edge source="L-Glutamate" target="H+" />
+    <edge source="L-Glutamate" target="L-Glutamine" />
+    <edge source="L-Glutamate" target="2-Oxoglutarate" />
+    <edge source="2-Oxoglutarate" target="3-Phosphonooxypyruvate" />
+    <edge source="2-Oxoglutarate" target="L-Glutamate" />
+    <edge source="AMP" target="ATP" />
+    <edge source="AMP" target="D-Ribose 5-phosphate" />
+    <edge source="NAD+" target="NADH" />
+    <edge source="NAD+" target="Oxaloacetate" />
+    <edge source="NAD+" target="Pyruvate" />
+    <edge source="NAD+" target="H+" />
+    <edge source="NAD+" target="CO2" />
+    <edge source="NADP+" target="H+" />
+    <edge source="NADP+" target="L-Glutamine" />
+    <edge source="NADP+" target="CO2" />
+    <edge source="NADP+" target="NADPH" />
+    <edge source="NADP+" target="Pyruvate" />
+    <edge source="NADP+" target="2-Oxoglutarate" />
+    <edge source="ATP" target="Orthophosphate" />
+    <edge source="ATP" target="Phosphoenolpyruvate" />
+    <edge source="ATP" target="AMP" />
+    <edge source="ATP" target="ADP" />
+    <edge source="ATP" target="CO2" />
+    <edge source="(S)-Malate" target="Fumarate" />
+    <edge source="(S)-Malate" target="H2O" />
+    <edge source="(S)-Malate" target="H+" />
+    <edge source="(S)-Malate" target="NADH" />
+    <edge source="(S)-Malate" target="NADPH" />
+    <edge source="(S)-Malate" target="Oxaloacetate" />
+    <edge source="(S)-Malate" target="Pyruvate" />
+    <edge source="(S)-Malate" target="CO2" />
+    <edge source="Orthophosphate" target="Phosphoenolpyruvate" />
+    <edge source="Orthophosphate" target="H2O" />
+    <edge source="Orthophosphate" target="CO2" />
+  </graph>
+</graphml>

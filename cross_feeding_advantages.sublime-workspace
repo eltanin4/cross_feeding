@@ -1,0 +1,2048 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"yiel",
+				"yieldDiff"
+			],
+			[
+				"yie",
+				"yieldDiff1"
+			],
+			[
+				"unfitter",
+				"unfitterSecDB"
+			],
+			[
+				"yield",
+				"deltaYields"
+			],
+			[
+				"curr",
+				"currNutrientSet"
+			],
+			[
+				"nutrient",
+				"nutrientsConsumed"
+			],
+			[
+				"all",
+				"allDeltaYields"
+			],
+			[
+				"gen",
+				"genOrgLibrary"
+			],
+			[
+				"prod",
+				"prodDiff"
+			],
+			[
+				"orgPath",
+				"orgPathLibrary"
+			],
+			[
+				"orgP",
+				"orgPathLibrary"
+			],
+			[
+				"orgPat",
+				"orgPathLibrary"
+			],
+			[
+				"ft",
+				"fitterDB"
+			],
+			[
+				"fitter",
+				"fitterDB"
+			],
+			[
+				"fitt",
+				"fittestOrgLen"
+			],
+			[
+				"thi",
+				"thisSecPair"
+			],
+			[
+				"new",
+				"newOrgRxns"
+			],
+			[
+				"newO",
+				"newOrgRxns"
+			],
+			[
+				"currP",
+				"currProf"
+			],
+			[
+				"consu",
+				"consumeAUTDB"
+			],
+			[
+				"con",
+				"consumeCFNDB"
+			],
+			[
+				"Prod",
+				"produceCFNDB"
+			],
+			[
+				"CFN",
+				"consumeCFNDB"
+			],
+			[
+				"frac",
+				"fracProducing2"
+			],
+			[
+				"fracN",
+				"fracNeutral1"
+			],
+			[
+				"tempOr",
+				"tempOrgRxns"
+			],
+			[
+				"rem",
+				"remRxn1"
+			],
+			[
+				"o2",
+				"o2SatRxnVec"
+			],
+			[
+				"o1",
+				"o1SatRxnVec"
+			],
+			[
+				"o2Rxn",
+				"o2RxnList"
+			],
+			[
+				"o1S",
+				"o1SatMetVec"
+			],
+			[
+				"this",
+				"thisPair"
+			],
+			[
+				"cur",
+				"currSatRxns"
+			],
+			[
+				"satRxn",
+				"satRxnVec"
+			],
+			[
+				"rand",
+				"randOrgList"
+			],
+			[
+				"print",
+				"print_progress_bar"
+			],
+			[
+				"temp",
+				"tempSatMetVec2"
+			],
+			[
+				"shift",
+				"shiftedNutrientSet"
+			],
+			[
+				"randoR",
+				"randOrgLenList"
+			],
+			[
+				"num",
+				"numCoresActive"
+			],
+			[
+				"not",
+				"notSurvive"
+			],
+			[
+				"tempSa",
+				"tempSatMetVec"
+			],
+			[
+				"shif",
+				"shiftedNutrientSet"
+			],
+			[
+				"nutrie",
+				"nutrientSet"
+			],
+			[
+				"nutr",
+				"nutrientSet"
+			],
+			[
+				"reac",
+				"reactVec"
+			],
+			[
+				"re",
+				"removableMets"
+			],
+			[
+				"remov",
+				"removableMets"
+			],
+			[
+				"can",
+				"canRemoveVecs"
+			],
+			[
+				"path",
+				"pathDB"
+			],
+			[
+				"newOr",
+				"newOrgPathDict"
+			],
+			[
+				"nutri",
+				"nutrientsConsumed"
+			],
+			[
+				"nut",
+				"nutrientSet"
+			],
+			[
+				"mutual",
+				"mutualBiomasses"
+			],
+			[
+				"fit",
+				"fitCost"
+			],
+			[
+				"ma",
+				"maxBmsOrgBms"
+			],
+			[
+				"core",
+				"coreTBP"
+			],
+			[
+				"rep",
+				"replacedPathSec"
+			],
+			[
+				"break",
+				"breakFlag"
+			],
+			[
+				"assigen",
+				"assignedPairs"
+			],
+			[
+				"as",
+				"assignMicrobesFates"
+			],
+			[
+				"assigned",
+				"assignedNutsVec"
+			],
+			[
+				"assigne",
+				"assignedNutsVec\tstatement"
+			],
+			[
+				"avail",
+				"availableNutsVec"
+			],
+			[
+				"assi",
+				"assignedPairs\tstatement"
+			],
+			[
+				"assign",
+				"assignMicrobesFates\tfunction"
+			],
+			[
+				"ass",
+				"assignedPairs\tstatement"
+			],
+			[
+				"NUM",
+				"NUM_UNIV\tstatement"
+			],
+			[
+				"fil",
+				"filterSurvivingMicrobes\tfunction"
+			],
+			[
+				"filter",
+				"filter_surviving_microbes\tmodule"
+			],
+			[
+				"asigned",
+				"assignedPairs\tparam"
+			],
+			[
+				"avialb",
+				"availableNutsVec\tstatement"
+			],
+			[
+				"assg",
+				"assignPairsInLayer\tfunction"
+			],
+			[
+				"microbes",
+				"microbesInQueue\tstatement"
+			],
+			[
+				"ntur",
+				"nutrientVec\tparam"
+			],
+			[
+				"avila",
+				"availableNutsVec\tstatement"
+			],
+			[
+				"ni",
+				"nutrientsList"
+			],
+			[
+				"buffer",
+				"bufferMicrobes\tstatement"
+			],
+			[
+				"micr",
+				"microbesInQueue\tstatement"
+			],
+			[
+				"mics",
+				"microbesInQueue"
+			],
+			[
+				"surviv",
+				"survivableMicrobes\tstatement"
+			],
+			[
+				"microbe",
+				"microbesInQueue"
+			],
+			[
+				"mic",
+				"micToEtaMap\tstatement"
+			],
+			[
+				"surv",
+				"survivableMicrobes\tstatement"
+			],
+			[
+				"age",
+				"ageVec\tstatement"
+			],
+			[
+				"bool",
+				"bool2int"
+			],
+			[
+				"file",
+				"filesWhereExists"
+			],
+			[
+				"vec",
+				"vecMetSets"
+			],
+			[
+				"currS",
+				"currSecMets"
+			],
+			[
+				"save",
+				"savePathsWithSecVec\tfunction"
+			],
+			[
+				"map",
+				"map_async\tfunction"
+			],
+			[
+				"give",
+				"giveRevScope"
+			],
+			[
+				"prin",
+				"print_progress_bar\tfunction"
+			],
+			[
+				"pro",
+				"prodMat\tparam"
+			],
+			[
+				"fittest",
+				"fittestOrgFit"
+			],
+			[
+				"mutu",
+				"mutualFitnesses\tstatement"
+			],
+			[
+				"inter",
+				"intersection_update\tfunction"
+			],
+			[
+				"rang",
+				"randOrgLenList\tstatement"
+			],
+			[
+				"randOr",
+				"randOrgFitList\tstatement"
+			],
+			[
+				"ran",
+				"randOrgLenList\tstatement"
+			],
+			[
+				"max",
+				"maxBmsOrgBms\tstatement"
+			],
+			[
+				"usable",
+				"usablePaths\tstatement"
+			],
+			[
+				"newOrg",
+				"newOrgSecDict\tstatement"
+			],
+			[
+				"tmepO",
+				"tempOrgPathDict\tstatement"
+			],
+			[
+				"org",
+				"orgPathDict\tstatement"
+			],
+			[
+				"full",
+				"fullSet\tstatement"
+			],
+			[
+				"byp",
+				"bypArr\tstatement"
+			],
+			[
+				"or",
+				"orgRxns\tstatement"
+			],
+			[
+				"sec",
+				"secPathDict\tstatement"
+			],
+			[
+				"RAN",
+				"NUM_RAND_ORGS"
+			],
+			[
+				"rxn",
+				"rxnMat\tparam"
+			],
+			[
+				"one",
+				"ones_like\tfunction"
+			],
+			[
+				"sorted",
+				"sortedGenOrg\tfunction"
+			],
+			[
+				"sma",
+				"smallestGenOrg\tfunction"
+			],
+			[
+				"load",
+				"load_data\tmodule"
+			],
+			[
+				"uni",
+				"uniqify\tmodule"
+			],
+			[
+				"scope",
+				"scopeMetVec\tstatement"
+			],
+			[
+				"scopeME",
+				"scopeMetVec\tstatement"
+			],
+			[
+				"rMin",
+				"rMinSubnetsRxns\tstatement"
+			],
+			[
+				"random",
+				"random_minimal_subgraph\tmodule"
+			],
+			[
+				"logical",
+				"logical_xor\tinstance"
+			],
+			[
+				"remove",
+				"removedRxnVec"
+			],
+			[
+				"remo",
+				"removableMets\tstatement"
+			],
+			[
+				"smalle",
+				"smallestPathDict"
+			],
+			[
+				"fi",
+				"fittestMinSubnets\tfunction"
+			],
+			[
+				"sMin",
+				"sMinSubnetsRxns\tstatement"
+			],
+			[
+				"give_",
+				"give_reverse_scope\tmodule"
+			],
+			[
+				"remova",
+				"removableSubsets"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "from unlistify import unlistify\nfrom uniqify import uniqify\nimport numpy as np\nfrom load_data import *\nfrom print_progress_bar import print_progress_bar\nfrom sec_byproducts import *\n\nfitterSecDB, unfitterSecDB = [], []\nallDB = []\nneutralCFNDB, consumeCFNDB, produceCFNDB = [], [], []\nfitterDB, pathDB, secDB = [], [], []\nunfitterDB = []\ndelEDB, delSDB = [], []\ntempdepKinds = []\ndepKinds = []\nsecsUsed = np.array([])\ntTried = 0\nTO_COMPLETE = 1000\nwhile len( fitterDB ) < TO_COMPLETE:\n    print_progress_bar( len(fitterDB), TO_COMPLETE, 'Building mutualisms database')\n    while True:\n        tFlag = False\n        tTried += 1\n        # Generate a random organism.\n        while True:\n            orgPathDict = {}\n            for coreTBP in Core:\n                orgPathDict[ coreTBP ] = list( random.choice( pathDict[ coreTBP ] ).astype(int) )\n            \n            # Storing the list of reactions.\n            orgRxns = np.array( uniqify( unlistify( orgPathDict.values() ) ) ).astype( int )\n\n            # Creating a dictionary of secretions.\n            orgSecDict = {}\n            for coreTBP in Core:\n                orgSecDict[ coreTBP ] = list( np.nonzero( pathwaySecByproducts( \n                                              orgPathDict[ coreTBP ], orgRxns, \n                                              rxnMat, prodMat, Core ) )[0] )\n            \n            # Purging duplicates to have only unique byproducts.\n            tempSet = set()\n            fullSet = unlistify( orgSecDict.values() )\n            duplicates = set(x for x in fullSet if x in tempSet or tempSet.add(x))\n            orgSecDict = { coreTBP: list( set( orgSecDict[ coreTBP ] ).difference( duplicates ) ) \n                           for coreTBP in Core }\n\n            # Updating the full list of byproducts in the network.\n            bypArr = uniqify( unlistify( orgSecDict.values() ) )\n\n            if fitCost( orgRxns ) > 0.0:\n                # print('Successfuly found a working host.')\n                ogCost = fitCost( orgRxns )\n                break\n\n    #-------------------------------------------------------------------------\n\n        # Generate a random organism.\n        while True:\n            org2PathDict = {}\n            for coreTBP in Core:\n                org2PathDict[ coreTBP ] = list( random.choice( pathDict[ coreTBP ] ).astype(int) )\n            \n            # Storing the list of reactions.\n            org2Rxns = np.array( uniqify( unlistify( org2PathDict.values() ) ) ).astype( int )\n\n            # Creating a dictionary of secretions.\n            org2SecDict = {}\n            for coreTBP in Core:\n                org2SecDict[ coreTBP ] = list( np.nonzero( pathwaySecByproducts( \n                                              org2PathDict[ coreTBP ], org2Rxns, \n                                              rxnMat, prodMat, Core ) )[0] )\n            \n            # Purging duplicates to have only unique byproducts.\n            tempSet = set()\n            fullSet = unlistify( org2SecDict.values() )\n            duplicates = set(x for x in fullSet if x in tempSet or tempSet.add(x))\n            org2SecDict = { coreTBP: list( set( org2SecDict[ coreTBP ] ).difference( duplicates ) ) \n                           for coreTBP in Core }\n\n            # Updating the full list of byproducts in the network.\n            bypArr = uniqify( unlistify( org2SecDict.values() ) )\n\n            if fitCost( org2Rxns ) > 0.0:\n                # print('Successfuly found a working host.')\n                ogCost = fitCost( org2Rxns )\n                break\n\n    #-------------------------------------------------------------------------\n    #-------------------------------------------------------------------------\n    #-------------------------------------------------------------------------\n\n        # Creating a list of pathways that work on the respective secretions.\n        usablePaths = {}\n        for coreTBP in Core:\n            usablePaths[ coreTBP ] = []\n            tempBypList = orgSecDict[ coreTBP ][:]\n            if not tempBypList:\n                continue\n            for currPath in secPathDict[ coreTBP ]:\n                if ((np.logical_or.reduce(rxnMat[np.array( currPath ).astype(int)]) * 1)\n                    [ tempBypList ].any()):\n                    usablePaths[ coreTBP ].append( currPath )\n                    firstSecUsed = tempBypList[:]\n\n        #-------------------------------------------------------------------------\n\n        for coreTBP in Core:\n            tFlag = False\n            if not usablePaths[ coreTBP ]:\n                continue\n\n        #-------------------------------------------------------------------------\n\n            # Randomly picking a usable path.\n            # print('First replacing a pathway for core ' + str( coreTBP ) )\n            tempdepKinds.append([coreTBP])\n            PATH_ID = random.choice( range( len( usablePaths[ coreTBP ] ) ) )\n            tempOrgPathDict = org2PathDict.copy()\n            tempOrgPathDict[ coreTBP ] = list( usablePaths[ coreTBP ][ PATH_ID ].astype( int ) )\n            tempOrgRxns = np.array( uniqify( unlistify( tempOrgPathDict.values() ) ) ).astype( int )\n            replacedPathSec = list( np.nonzero( pathwaySecByproducts( \n                                    tempOrgPathDict[ coreTBP ], tempOrgRxns, \n                                    rxnMat, prodMat, Core ) )[0] )\n\n            # Creating a dictionary of secretions.\n            tempOrgSecDict = {}\n            for i in Core:\n                tempOrgSecDict[ i ] = list( np.nonzero( pathwaySecByproducts( \n                                              tempOrgPathDict[ i ], tempOrgRxns, \n                                              rxnMat, prodMat, Core ) )[0] )\n            \n            # Purging duplicates to have only unique byproducts.\n            tempSet = set()\n            fullSet = unlistify( tempOrgSecDict.values() )\n            duplicates = set(x for x in fullSet if x in tempSet or tempSet.add(x))\n            tempOrgSecDict = { i: list( set( tempOrgSecDict[ i ] ).difference( duplicates ) ) \n                           for i in Core }\n\n        #-------------------------------------------------------------------------\n\n            if replacedPathSec:\n                newUsablePaths = {}\n                for i in Core:\n                    if i != coreTBP:\n                        newUsablePaths[ i ] = []\n                        for currPath in secPathDict[ i ]:\n                            if ((np.logical_or.reduce(rxnMat[np.array( currPath ).astype(int)]) * 1)\n                                [ replacedPathSec ].any()):\n                                newUsablePaths[ i ].append( currPath )\n                                secondSecUsed = replacedPathSec[:]\n            else:\n                continue\n        #-------------------------------------------------------------------------\n            \n            flag = False\n            for i in np.random.permutation(Core):\n                if i != coreTBP:\n                    if newUsablePaths[ i ]:\n                        # print('Finally replacing pathway for core ' + str( i ) )\n                        tempdepKinds[-1].append(i)\n                        flag = True\n                        PATH_ID = random.choice( range ( len( newUsablePaths[ i ] ) ) )\n                        newOrgPathDict = orgPathDict.copy()\n                        newOrgPathDict[ i ] = list( newUsablePaths[ i ][ PATH_ID ].astype( int ) )\n                        newOrgRxns = np.array( uniqify( unlistify( newOrgPathDict.values() ) ) ).astype( int )\n                        break\n            if not flag:\n                continue\n\n            # Creating a dictionary of secretions.\n            newOrgSecDict = {}\n            for i in Core:\n                newOrgSecDict[ i ] = list( np.nonzero( pathwaySecByproducts( \n                                              newOrgPathDict[ i ], newOrgRxns, \n                                              rxnMat, prodMat, Core ) )[0] )\n            \n            # Purging duplicates to have only unique byproducts.\n            tempSet = set()\n            fullSet = unlistify( newOrgSecDict.values() )\n            duplicates = set(x for x in fullSet if x in tempSet or tempSet.add(x))\n            newOrgSecDict = { i: list( set( newOrgSecDict[ i ] ).difference( duplicates ) ) \n                           for i in Core }\n            tFlag = True\n            break\n\n        #-------------------------------------------------------------------------\n        \n        if tFlag:\n            allDB.append( ( newOrgRxns, tempOrgRxns ) ) \n            # print('At least made a pair.')\n            tempOrgSecs = uniqify(unlistify(tempOrgSecDict.values()))\n            newOrgSecs = uniqify(unlistify(newOrgSecDict.values()))\n\n            tempOrgSecPathDict = {}\n            for coreTBP in Core:\n                currPath = tempOrgPathDict[ coreTBP ]\n                tempOrgSecPathDict[ coreTBP ] = [ sec for sec in newOrgSecs \n                                                  if ( np.logical_or.reduce(rxnMat[np.array( currPath ).astype(int)]) * 1)[ sec ] ]\n\n            newOrgSecPathDict = {}\n            for coreTBP in Core:\n                currPath = newOrgPathDict[ coreTBP ]\n                newOrgSecPathDict[ coreTBP ] = [ sec for sec in tempOrgSecs \n                                                  if ( np.logical_or.reduce(rxnMat[np.array( currPath ).astype(int)]) * 1)[ sec ] ]\n\n            secsUsed = np.append(secsUsed, unlistify(tempOrgSecPathDict.values()) + unlistify(newOrgSecPathDict.values()))\n            \n            secDB.append( ( firstSecUsed, secondSecUsed ) )\n            delEDB.append( ( fitCost(newOrgRxns) - fittestOrgFit, \n                             fitCost(tempOrgRxns) - fittestOrgFit ) )\n            delSDB.append( ( len(newOrgRxns) - fittestOrgLen, \n                             len(tempOrgRxns) - fittestOrgLen ) )\n\n            newProf = np.array( [ sum( stoich_matrix[ rxn ][ Energy ] * [ 1, 3, 3 ] ) \n                                  for rxn in newOrgRxns ] )\n            oldProf = np.array( [ sum( stoich_matrix[ rxn ][ Energy ] * [ 1, 3, 3 ] ) \n                                  for rxn in tempOrgRxns ] )\n            fracNeutral1, fracNeutral2 = np.count_nonzero( newProf == 0 ) / len( newOrgRxns ), np.count_nonzero( oldProf == 0 ) / len( tempOrgRxns )\n            fracConsuming1, fracConsuming2 = np.count_nonzero( newProf < 0 ) / len( newOrgRxns ), np.count_nonzero( oldProf < 0 ) / len( tempOrgRxns )\n            fracProducing1, fracProducing2 = np.count_nonzero( newProf > 0 ) / len( newOrgRxns ), np.count_nonzero( oldProf > 0 ) / len( tempOrgRxns )\n\n            neutralCFNDB.append( ( fracNeutral1, fracNeutral2 ) )\n            consumeCFNDB.append( ( fracConsuming1, fracConsuming2 ) )\n            produceCFNDB.append( ( fracProducing1, fracProducing2 ) )\n\n            # neutralAUTDB, consumeAUTDB, produceAUTDB = [], [], []\n            # for currOrgRxns in tqdm( randOrgList[ : 20000] ):\n            #     currProf = np.array( [ sum( stoich_matrix[ rxn ][ Energy ] * [ 1, 3, 3 ] ) \n            #                       for rxn in currOrgRxns ] )\n            #     neutralAUTDB.append( np.count_nonzero( currProf == 0 ) / len( currOrgRxns) )\n            #     consumeAUTDB.append( np.count_nonzero( currProf < 0 ) / len( currOrgRxns) )\n            #     produceAUTDB.append( np.count_nonzero( currProf > 0 ) / len( currOrgRxns) )\n\n            # if smallestOrgLen * 1.5 >= len(newOrgRxns) and smallestOrgLen * 1.5 >= len(tempOrgRxns):\n            if fittestOrgFit <= fitCost( newOrgRxns ) and fittestOrgFit <= fitCost( tempOrgRxns ):\n                fitterDB.append((newOrgRxns, tempOrgRxns))\n                fitterSecDB.append( ( firstSecUsed, secondSecUsed ) )\n                pathDB.append( ( newOrgPathDict, tempOrgPathDict ) )\n                depKinds.append(tempdepKinds[-1])\n            else:\n                unfitterDB.append((newOrgRxns, tempOrgRxns))\n                unfitterSecDB.append( ( firstSecUsed, secondSecUsed ) )\n            break\n                # tempOrgSecs = uniqify(unlistify(tempOrgSecDict.values()))\n                # newOrgSecs = uniqify(unlistify(newOrgSecDict.values()))\n\n                # tempOrgSecPathDict = {}\n                # for coreTBP in Core:\n                #     currPath = tempOrgPathDict[ coreTBP ]\n                #     tempOrgSecPathDict[ coreTBP ] = [ sec for sec in newOrgSecs \n                #                                       if ( np.logical_or.reduce(rxnMat[np.array( currPath ).astype(int)]) * 1)[ sec ] ]\n\n                # newOrgSecPathDict = {}\n                # for coreTBP in Core:\n                #     currPath = newOrgPathDict[ coreTBP ]\n                #     newOrgSecPathDict[ coreTBP ] = [ sec for sec in tempOrgSecs \n                #                                       if ( np.logical_or.reduce(rxnMat[np.array( currPath ).astype(int)]) * 1)[ sec ] ]\n\n                # secsUsed = np.append(secsUsed, unlistify(tempOrgSecPathDict.values()) + unlistify(newOrgSecPathDict.values()))\n                \n                # secDB.append( ( firstSecUsed, secondSecUsed ) )\n\n                # print('SUCCESS')\n                # print('Energy yield: ', fittestOrgFit, fitCost(newOrgRxns), fitCost(tempOrgRxns))\n                # # print('Biomass yield: ', maxBmsOrgBms, biomassCost(newOrgRxns), biomassCost(tempOrgRxns))\n                # print('Lengths: ', fittestOrgLen, len(newOrgRxns), len(tempOrgRxns))\n            # elif maxBmsOrgBms <= biomassCost(newOrgRxns) or maxBmsOrgBms <= biomassCost(tempOrgRxns):\n            #     print('Biomass yield: ', maxBmsOrgBms, biomassCost(newOrgRxns), biomassCost(tempOrgRxns))\n            #     print('Lengths: ', fittestOrgLen, len(newOrgRxns), len(tempOrgRxns))\n\n\nimport seaborn as sns\nsns.set( style = 'ticks' )\nsns.jointplot( np.array(unlistify(delSDB)), np.array(unlistify(delEDB)), kind='kde', color = 'dodgerblue' ).set_axis_labels('S', 'E')\nplt.tight_layout()\nplt.show()\n\novFitter, ovRandom = [], []\nfor thisPair in fitterDB:\n    sec1 = set( np.nonzero( secByproducts( thisPair[0], rxnMat, prodMat, Core ) )[0] )\n    sec2 = set( np.nonzero( secByproducts( thisPair[1], rxnMat, prodMat, Core ) )[0] )\n\n    ovFitter.append( len( sec1 & sec2 ) / len( sec1 | sec2 ) )\n\nfor thisPair in allDB:\n    sec1 = set( np.nonzero( secByproducts( thisPair[0], rxnMat, prodMat, Core ) )[0] )\n    sec2 = set( np.nonzero( secByproducts( thisPair[1], rxnMat, prodMat, Core ) )[0] )\n\n    ovRandom.append( len( sec1 & sec2 ) / len( sec1 | sec2 ) )\n\novSecs = []\nfor thisSecPair in secDB:\n    sec1, sec2 = set( thisSecPair[0][:] ), set( thisSecPair[1][:] )\n    ovSecs.append( len( sec1 & sec2 ) / len( sec1 | sec2 ) )    \n\novFitSecs = []\nfor thisSecPair in fitterSecDB:\n    sec1, sec2 = set( thisSecPair[0][:] ), set( thisSecPair[1][:] )\n    ovFitSecs.append( len( sec1 & sec2 ) / len( sec1 | sec2 ) )    \n\nfig, ax = plt.subplots(1)\nax.scatter( Aprods, Bprods )\nplt.tight_layout()\nplt.show()\n",
+			"file": "many_steps_away.py",
+			"file_size": 14648,
+			"file_write_time": 131395788028904193,
+			"settings":
+			{
+				"buffer_size": 14954,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "import numpy as np\nfrom org_generators import *\nfrom sec_byproducts import secByproducts\nfrom load_data import *\nfrom fit_cost import fitCost, biomassCost, compFitness\nfrom display_community import drxn\nfrom tqdm import tqdm\n\nsaveDir = 'superrich1Set_networks/'\nsecSaveDir = 'sec_' + saveDir\nprefix = 'prebSeed_randRxnSets'\n\nmedType = 'superrich1'\nmediumFile = medType + '_medium.txt'\nnutrientSet = [kegg_to_id[i] for i in np.genfromtxt(mediumFile)]\n\n# Pulling out the pathway dictionary from the pregenerated folder.\npathDict = genPathDict( saveDir, prefix, Core )\nsecPathDict = genPathDict( secSaveDir, prefix, Core )\n\n# Generating random organism generalist reaction sets.\nNUM_RAND_ORGS = 50000\n\nrandOrgLenList, randOrgFitList, randOrgBmsList, randOrgComList = np.array( [] ), np.array( [] ), np.array( [] ), np.array( [] )\nrandOrgList = []\nnumByps = np.array( [] )\nbypArr, bypList = np.array( [] ), []\nfor i in tqdm( range( NUM_RAND_ORGS ) ):\n    # Generating a random organism from a pregenerated \n    # path dictionary.\n    orgRxns = genRandOrg( pathDict )\n\n    # Calculating the size of the organism and its fitness.\n    randOrgLenList = np.append( randOrgLenList, len( orgRxns ) )\n    randOrgFitList = np.append( randOrgFitList, fitCost( orgRxns ) )\n    randOrgBmsList = np.append( randOrgBmsList, biomassCost( orgRxns ) )\n    randOrgComList = np.append( randOrgComList, compFitness( orgRxns ) )\n\n    # Keeping a list of generated organisms.\n    randOrgList.append( orgRxns )\n    \n    # Updating the list of byproducts in the network.\n    bypList.append( list( np.nonzero( secByproducts( orgRxns, rxnMat, prodMat, Core ) )[0] ) )\n    bypArr = np.append( bypArr, np.nonzero( secByproducts( orgRxns, rxnMat, prodMat, Core ) )[0] )\n    numByps = np.append( numByps, len( np.nonzero( secByproducts( orgRxns, rxnMat, prodMat, Core ) )[0] ) )\n\n# Generating the smallest generalist characteristics.\nsmallestOrgLen = min( randOrgLenList[ np.where( randOrgLenList == min( randOrgLenList ) )[0] ] )\nfittestOrgLen = min( randOrgLenList[ np.where( randOrgFitList == max( randOrgFitList ) )[0] ] )\nmaxBmsOrgLen = min( randOrgLenList[ np.where( randOrgBmsList == max( randOrgBmsList ) )[0] ] )\n\n# Generating the fittest generalist characteristics.\nsmallestOrgFit = max( randOrgFitList[ np.where( randOrgLenList == min( randOrgLenList ) )[0] ] )\nfittestOrgFit = max( randOrgFitList[ np.where( randOrgFitList == max( randOrgFitList ) )[0] ] )\nmaxBmsOrgFit = max( randOrgFitList[ np.where( randOrgBmsList == max( randOrgBmsList ) )[0] ] )\n\n# Generating the most biomass-producing generalist characteristics.\nsmallestOrgBms = max( randOrgBmsList[ np.where( randOrgLenList == min( randOrgLenList ) )[0] ] )\nfittestOrgBms = max( randOrgBmsList[ np.where( randOrgFitList == max( randOrgFitList ) )[0] ] )\nmaxBmsOrgBms = max( randOrgBmsList[ np.where( randOrgBmsList == max( randOrgBmsList ) )[0] ] )\n\n#-------------------------------------------------------------------------\n\nimport matplotlib.pyplot as plt\n# Generating the size distribution.\nfig, ax = plt.subplots(1)\n\nmyWeights = np.ones_like( randOrgLenList ) / len ( randOrgLenList )\nax.hist( randOrgLenList, bins = 25, color = 'darkorange', weights = myWeights, histtype = 'stepfilled' )\nax.set_xlabel( 'Size of metabolic network' )\nax.set_ylabel( 'Fraction of species' )\n\nax.set_xlim( min( randOrgLenList ) - 10, max( randOrgLenList ) + 10 )\nax.axvline( smallestOrgLen, color='darkorange', linestyle='dashed', linewidth=2.5 )\nax.axvline( fittestOrgLen, color='dodgerblue', linestyle='dashed', linewidth=2.5 )\nax.axvline( maxBmsOrgLen, color='mediumseagreen', linestyle='dashed', linewidth=2.5)\nplt.savefig('plots_170421/met_size_prebMed_anaerobic.svg')\nplt.savefig('plots_170421/met_size_prebMed_anaerobic.png')\nplt.close()\n\n#-------------------------------------------------------------------------\n\n# Generating the energy yield distribution.\nfig, ax = plt.subplots(1)\n\nmyWeights = np.ones_like( randOrgFitList ) / len ( randOrgFitList )\nax.hist( randOrgFitList, bins = 25, color = 'dodgerblue', weights = myWeights, histtype = 'stepfilled' )\nax.set_xlabel( 'Energy yield of metabolic network' )\nax.set_ylabel( 'Fraction of species' )\n\nax.set_xlim( min( randOrgFitList ) - 6, max( randOrgFitList ) + 6 )\nax.axvline( smallestOrgFit, color='darkorange', linestyle='dashed', linewidth=2.5)\nax.axvline( fittestOrgFit, color='dodgerblue', linestyle='dashed', linewidth=2.5)\nax.axvline( maxBmsOrgFit, color='mediumseagreen', linestyle='dashed', linewidth=2.5)\n\nplt.savefig('plots_170421/met_fitn_prebMed_anaerobic.svg')\nplt.savefig('plots_170421/met_fitn_prebMed_anaerobic.png')\nplt.close()\n\n#-------------------------------------------------------------------------\n\n# Generating the biomass yield distribution.\nfig, ax = plt.subplots(1)\n\nmyWeights = np.ones_like( randOrgBmsList ) / len ( randOrgBmsList )\nax.hist( randOrgBmsList, bins = 15, color = 'mediumseagreen', weights = myWeights, histtype = 'stepfilled' )\n\nax.set_xlabel( 'Biomass yield of metabolic network' )\nax.set_ylabel( 'Fraction of species' )\nax.set_xlim( min( randOrgBmsList ) - 2, max( randOrgBmsList ) + 2 )\n\nax.axvline( smallestOrgBms, color='darkorange', linestyle='dashed', linewidth=2.5)\nax.axvline( maxBmsOrgBms, color='mediumseagreen', linestyle='dashed', linewidth=2.5)\nax.axvline( fittestOrgBms, color='dodgerblue', linestyle='dashed', linewidth=2.5)\n\nplt.savefig('plots_170421/met_biom_prebMed_anaerobic.svg')\nplt.savefig('plots_170421/met_biom_prebMed_anaerobic.png')\nplt.close()\n\n#-------------------------------------------------------------------------\n\n# Generating the byproduct distribution.\nsecID, counts = np.unique( bypArr, return_counts = True )\n\n# Removing AMP from this list, have to add it to currency metabolites.\nsecID, counts = np.delete( secID, np.where( secID == 15 ) ), np.delete( counts, np.where( secID == 15 ) )\nsecID, counts = np.delete( secID, np.where( secID == 15 ) ), np.delete( counts, np.where( secID == 457 ) )\nsecID = [ secID for ( counts, secID ) in sorted( zip( counts, secID ), key=lambda pair: pair[0], reverse = True ) ]\ncounts = [ counts for ( counts, secID ) in sorted( zip( counts, secID ), key=lambda pair: pair[0], reverse = True  ) ]\n\n# Normalizing counts to number of organisms generated.\ncounts = np.divide( counts, NUM_RAND_ORGS )\n\n# Generating a bar chart.\nind = np.arange( len( secID ) )\nwidth = 0.25\nfig, ax = plt.subplots( 1 )\nrects1 = ax.bar( ind, counts, width, color='darkorange' )\nax.set_xticks( ind + width / 2 )\nax.set_xticklabels( [ cpd_string_dict[ id_to_kegg [ i ] ] for i in secID ], rotation = 'vertical' )\nax.set_ylabel( 'Frequency of secretion' )\nfig.tight_layout()\nplt.savefig('plots_170421/byp_prebMed_anaerobic.svg')\nplt.savefig('plots_170421/byp_prebMed_anaerobic.png')\nplt.close()\n\n#-------------------------------------------------------------------------\n\n# Generating the size-yield scatter.\nimport seaborn as sns\nsns.set( style = 'ticks' )\nsns.jointplot( randOrgBmsList, randOrgFitList, kind = 'kde', color = 'dodgerblue' ).set_axis_labels('Size of metabolic network', 'Energy yield')\nplt.tight_layout()\nplt.savefig('plots_170421/size_fitn_corr_prebMed_anaerobic.svg')\nplt.savefig('plots_170421/size_fitn_corr_prebMed_anaerobic.png')\nplt.close()\n\n#-------------------------------------------------------------------------\n\n# Generating the byproduct-yield scatter.\nimport seaborn as sns\nsns.set( style = 'ticks' )\nsns.jointplot( randOrgLenList, numByps, kind = 'hex', color = 'darkorange' ).set_axis_labels('Size of metabolic network', 'Number of byproducts')\nplt.tight_layout()\nplt.savefig('plots_170421/size_nbyp_corr_prebMed_anaerobic.svg')\nplt.savefig('plots_170421/size_nbyp_corr_prebMed_anaerobic.png')\nplt.close()\n",
+			"file": "init_generalist_ground.py",
+			"file_size": 7572,
+			"file_write_time": 131445022639184926,
+			"settings":
+			{
+				"buffer_size": 7714,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "def genOrgLibrary( pathDict, Core=Core, NUM_RAND_ORGS = 50000):\n    # Generate random organisms.\n    orgPathLibrary = []\n    for i in tqdm( range( NUM_RAND_ORGS ) ):\n        orgPathDict = {}\n        for coreTBP in Core:\n            orgPathDict[ coreTBP ] = list( random.choice( pathDict[ coreTBP ] ).astype(int) )\n        \n        # Storing the list of reactions.\n        orgPathLibrary.append( orgPathDict )\n    return orgPathLibrary\n\n#-------------------------------------------------------------------------\n\ndef genAuxLibrary( orgPathLibrary ):\n    auxLibrary = []\n    for thisOrg in tqdm( orgPathLibrary ):\n        for coreTBP in Core:\n            auxLibrary.append( { tC : thisOrg[ tC ] for tC in Core if tC != coreTBP } )\n\n    return auxLibrary\n\n#-------------------------------------------------------------------------\n\ndef genAuxOrgs( orgPathLibrary ):\n    auxLib = genAuxLibrary( orgPathLibrary )\n    return [ np.array( uniqify( unlistify(orgRxns.values()) ) ).astype(int) \n                for orgRxns in tqdm(auxLib) ]\n\n#-------------------------------------------------------------------------\n\ndef getAuxProds( auxOrgs ):\n    return [ fitCost( auxOrgs[ I ] ) for I in tqdm(range(len(auxOrgs))) ]\n\n#-------------------------------------------------------------------------\n\norgPathLibrary = genOrgLibrary( pathDict )\nauxOrgs = genAuxOrgs( orgPathLibrary )\nauxProds = getAuxProds( auxOrgs )\n\n#-------------------------------------------------------------------------\n\n# Classifying the auxotrophs into three categories: whether their producitivities are higher, lower or the same compared to their wild-types.\nprodDiff = []\nmainProds = []\nSIGMA = 0.05\nfor tN, thisOrg in tqdm( enumerate( orgPathLibrary ) ):\n    currOrgProd = fitCost( np.array( uniqify( unlistify( thisOrg.values() ) ) ).astype(int) )\n    currBestLen = len( np.array( uniqify( unlistify( thisOrg.values() ) ) ).astype(int) )\n    mainProds.append( currOrgProd )\n    for tC, coreTBP in enumerate( Core ):\n        auxInd = tN * len( Core ) + tC\n        prodDiff.append( auxProds[ auxInd ] - SIGMA * len( auxOrgs[ auxInd ] ) )\n\n# Generating the energy yield distribution.\nfig, ax = plt.subplots(1)\nmyWeights = np.ones_like( prodDiff ) / len ( prodDiff )\nax.hist( prodDiff, bins = 25, color = 'dodgerblue', weights = myWeights, histtype = 'stepfilled' )\nax.set_xlabel( 'Productivity difference' )\nax.set_ylabel( 'Fraction of auxotrophs' )\nax.set_xlim( min( prodDiff ) - 2, max( prodDiff ) + 2 )\nplt.show()\n",
+			"settings":
+			{
+				"buffer_size": 2480,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "from print_progress_bar import print_progress_bar\nfrom unlistify import unlistify\nfrom uniqify import uniqify\nimport numpy as np\nfrom org_generators import *\nfrom sec_byproducts import secByproducts, pathwaySecByproducts\nfrom load_data import *\nfrom tqdm import tqdm\n\nnutrientSet = [25, 12]\n\ndef nutrientsConsumed( rxns, currNutrientSet=nutrientSet ):\n    return abs( sum( [ sum( stoich_matrix[ rxn ][ nutrientSet ] ) for rxn in rxns.astype(int)\n                       if sum( stoich_matrix[ rxn ][ currNutrientSet ] ) < 0.0 ] ) )\n\ndef redoxFitCost( rxns, currExchangeRatio=3, currNutrientSet=nutrientSet ):\n    mulFac = [1, currExchangeRatio, currExchangeRatio]\n    return int( sum( [ sum( stoich_matrix[ rxn ][ Energy ] * mulFac ) \n                for rxn in rxns.astype(int) ] ) ) / nutrientsConsumed( rxns, currNutrientSet )\n\nsaveDir = 'prebSet_networks/'\nsecSaveDir = 'sec_' + saveDir\nprefix = 'prebSeed_randRxnSets'\n\nmedType = 'preb'\nmediumFile = medType + '_medium.txt'\nnutrientSet = [kegg_to_id[i] for i in np.genfromtxt(mediumFile)]\n\n# Pulling out the pathway dictionary from the pregenerated folder.\npathDict = genPathDict( saveDir, prefix, Core )\nsecPathDict = genPathDict( secSaveDir, prefix, Core )\n\n# Generating random organism generalist reaction sets.\npNeeded = []\noNeeded = []\nfor currExchangeRatio in np.arange(0.0, 3.1, 0.5):\n    oNeeded.append( [] )\n    NUM_RAND_ORGS = 50000\n\n    randOrgLenList, randOrgFitList, randOrgBmsList, randOrgComList = np.array( [] ), np.array( [] ), np.array( [] ), np.array( [] )\n    randOrgList = []\n    numByps = np.array( [] )\n    bypArr = np.array( [] )\n    for i in tqdm( range( NUM_RAND_ORGS ) ):\n        # Generating a random organism from a pregenerated \n        # path dictionary.\n        orgRxns = genRandOrg( pathDict )\n\n        # Calculating the size of the organism and its fitness.\n        randOrgLenList = np.append( randOrgLenList, len( orgRxns ) )\n        randOrgFitList = np.append( randOrgFitList, redoxFitCost( orgRxns, currExchangeRatio ) )\n\n        # Keeping a list of generated organisms.\n        randOrgList.append( orgRxns )\n        \n        # Updating the list of byproducts in the network.\n        bypArr = np.append( bypArr, np.nonzero( secByproducts( orgRxns, rxnMat, prodMat, Core ) )[0] )\n        numByps = np.append( numByps, len( np.nonzero( secByproducts( orgRxns, rxnMat, prodMat, Core ) )[0] ) )\n\n    # Generating the fittest generalist characteristics.\n    fittestOrgLen = min( randOrgLenList[ np.where( randOrgFitList == max( randOrgFitList ) )[0] ] )\n    fittestOrgFit = max( randOrgFitList[ np.where( randOrgFitList == max( randOrgFitList ) )[0] ] )\n\n#-------------------------------------------------------------------------\n\n    if fittestOrgFit < 0.0:\n        pNeeded.append(0.0)\n        continue\n\n#-------------------------------------------------------------------------\n\n    fitterSecDB = []\n    allDB = []\n    neutralCFNDB, consumeCFNDB, produceCFNDB = [], [], []\n    fitterDB, pathDB, secDB = [], [], []\n    delEDB, delSDB = [], []\n    tempdepKinds = []\n    depKinds = []\n    secsUsed = np.array([])\n    tTried = 0\n    while len( secDB ) < 100000:\n        print_progress_bar( len(secDB), 10000, 'Building mutualisms database')\n        while True:\n            tFlag = False\n            tTried += 1\n            # Generate a random organism.\n            while True:\n                orgPathDict = {}\n                for coreTBP in Core:\n                    orgPathDict[ coreTBP ] = list( random.choice( pathDict[ coreTBP ] ).astype(int) )\n                \n                # Storing the list of reactions.\n                orgRxns = np.array( uniqify( unlistify( orgPathDict.values() ) ) ).astype( int )\n\n                # Creating a dictionary of secretions.\n                orgSecDict = {}\n                for coreTBP in Core:\n                    orgSecDict[ coreTBP ] = list( np.nonzero( pathwaySecByproducts( \n                                                  orgPathDict[ coreTBP ], orgRxns, \n                                                  rxnMat, prodMat, Core ) )[0] )\n                \n                # Purging duplicates to have only unique byproducts.\n                tempSet = set()\n                fullSet = unlistify( orgSecDict.values() )\n                duplicates = set(x for x in fullSet if x in tempSet or tempSet.add(x))\n                orgSecDict = { coreTBP: list( set( orgSecDict[ coreTBP ] ).difference( duplicates ) ) \n                               for coreTBP in Core }\n\n                # Updating the full list of byproducts in the network.\n                bypArr = uniqify( unlistify( orgSecDict.values() ) )\n\n                if redoxFitCost( orgRxns, currExchangeRatio ) > 0.0:\n                    # print('Successfuly found a working host.')\n                    ogCost = redoxFitCost( orgRxns, currExchangeRatio )\n                    break\n\n        #-------------------------------------------------------------------------\n\n            # Generate a random organism.\n            while True:\n                org2PathDict = {}\n                for coreTBP in Core:\n                    org2PathDict[ coreTBP ] = list( random.choice( pathDict[ coreTBP ] ).astype(int) )\n                \n                # Storing the list of reactions.\n                org2Rxns = np.array( uniqify( unlistify( org2PathDict.values() ) ) ).astype( int )\n\n                # Creating a dictionary of secretions.\n                org2SecDict = {}\n                for coreTBP in Core:\n                    org2SecDict[ coreTBP ] = list( np.nonzero( pathwaySecByproducts( \n                                                  org2PathDict[ coreTBP ], org2Rxns, \n                                                  rxnMat, prodMat, Core ) )[0] )\n                \n                # Purging duplicates to have only unique byproducts.\n                tempSet = set()\n                fullSet = unlistify( org2SecDict.values() )\n                duplicates = set(x for x in fullSet if x in tempSet or tempSet.add(x))\n                org2SecDict = { coreTBP: list( set( org2SecDict[ coreTBP ] ).difference( duplicates ) ) \n                               for coreTBP in Core }\n\n                # Updating the full list of byproducts in the network.\n                bypArr = uniqify( unlistify( org2SecDict.values() ) )\n\n                if redoxFitCost( org2Rxns, currExchangeRatio ) > 0.0:\n                    # print('Successfuly found a working host.')\n                    ogCost = redoxFitCost( org2Rxns, currExchangeRatio )\n                    break\n\n        #-------------------------------------------------------------------------\n        #-------------------------------------------------------------------------\n        #-------------------------------------------------------------------------\n\n            # Creating a list of pathways that work on the respective secretions.\n            usablePaths = {}\n            for coreTBP in Core:\n                usablePaths[ coreTBP ] = []\n                tempBypList = orgSecDict[ coreTBP ][:]\n                if not tempBypList:\n                    continue\n                for currPath in secPathDict[ coreTBP ]:\n                    if ((np.logical_or.reduce(rxnMat[np.array( currPath ).astype(int)]) * 1)\n                        [ tempBypList ].any()):\n                        usablePaths[ coreTBP ].append( currPath )\n                        firstSecUsed = tempBypList[:]\n\n            #-------------------------------------------------------------------------\n\n            for coreTBP in Core:\n                tFlag = False\n                if not usablePaths[ coreTBP ]:\n                    continue\n\n            #-------------------------------------------------------------------------\n\n                # Randomly picking a usable path.\n                # print('First replacing a pathway for core ' + str( coreTBP ) )\n                tempdepKinds.append([coreTBP])\n                PATH_ID = random.choice( range( len( usablePaths[ coreTBP ] ) ) )\n                tempOrgPathDict = org2PathDict.copy()\n                tempOrgPathDict[ coreTBP ] = list( usablePaths[ coreTBP ][ PATH_ID ].astype( int ) )\n                tempOrgRxns = np.array( uniqify( unlistify( tempOrgPathDict.values() ) ) ).astype( int )\n                replacedPathSec = list( np.nonzero( pathwaySecByproducts( \n                                        tempOrgPathDict[ coreTBP ], tempOrgRxns, \n                                        rxnMat, prodMat, Core ) )[0] )\n\n                # Creating a dictionary of secretions.\n                tempOrgSecDict = {}\n                for i in Core:\n                    tempOrgSecDict[ i ] = list( np.nonzero( pathwaySecByproducts( \n                                                  tempOrgPathDict[ i ], tempOrgRxns, \n                                                  rxnMat, prodMat, Core ) )[0] )\n                \n                # Purging duplicates to have only unique byproducts.\n                tempSet = set()\n                fullSet = unlistify( tempOrgSecDict.values() )\n                duplicates = set(x for x in fullSet if x in tempSet or tempSet.add(x))\n                tempOrgSecDict = { i: list( set( tempOrgSecDict[ i ] ).difference( duplicates ) ) \n                               for i in Core }\n\n            #-------------------------------------------------------------------------\n\n                if replacedPathSec:\n                    newUsablePaths = {}\n                    for i in Core:\n                        if i != coreTBP:\n                            newUsablePaths[ i ] = []\n                            for currPath in secPathDict[ i ]:\n                                if ((np.logical_or.reduce(rxnMat[np.array( currPath ).astype(int)]) * 1)\n                                    [ replacedPathSec ].any()):\n                                    newUsablePaths[ i ].append( currPath )\n                                    secondSecUsed = replacedPathSec[:]\n                else:\n                    continue\n            #-------------------------------------------------------------------------\n                \n                flag = False\n                for i in np.random.permutation(Core):\n                    if i != coreTBP:\n                        if newUsablePaths[ i ]:\n                            # print('Finally replacing pathway for core ' + str( i ) )\n                            tempdepKinds[-1].append(i)\n                            flag = True\n                            PATH_ID = random.choice( range ( len( newUsablePaths[ i ] ) ) )\n                            newOrgPathDict = orgPathDict.copy()\n                            newOrgPathDict[ i ] = list( newUsablePaths[ i ][ PATH_ID ].astype( int ) )\n                            newOrgRxns = np.array( uniqify( unlistify( newOrgPathDict.values() ) ) ).astype( int )\n                            break\n                if not flag:\n                    continue\n\n                # Creating a dictionary of secretions.\n                newOrgSecDict = {}\n                for i in Core:\n                    newOrgSecDict[ i ] = list( np.nonzero( pathwaySecByproducts( \n                                                  newOrgPathDict[ i ], newOrgRxns, \n                                                  rxnMat, prodMat, Core ) )[0] )\n                \n                # Purging duplicates to have only unique byproducts.\n                tempSet = set()\n                fullSet = unlistify( newOrgSecDict.values() )\n                duplicates = set(x for x in fullSet if x in tempSet or tempSet.add(x))\n                newOrgSecDict = { i: list( set( newOrgSecDict[ i ] ).difference( duplicates ) ) \n                               for i in Core }\n                tFlag = True\n                break\n\n            #-------------------------------------------------------------------------\n            \n            if tFlag:\n                allDB.append( ( newOrgRxns, tempOrgRxns ) ) \n                # print('At least made a pair.')\n                tempOrgSecs = uniqify(unlistify(tempOrgSecDict.values()))\n                newOrgSecs = uniqify(unlistify(newOrgSecDict.values()))\n\n                tempOrgSecPathDict = {}\n                for coreTBP in Core:\n                    currPath = tempOrgPathDict[ coreTBP ]\n                    tempOrgSecPathDict[ coreTBP ] = [ sec for sec in newOrgSecs \n                                                      if ( np.logical_or.reduce(rxnMat[np.array( currPath ).astype(int)]) * 1)[ sec ] ]\n\n                newOrgSecPathDict = {}\n                for coreTBP in Core:\n                    currPath = newOrgPathDict[ coreTBP ]\n                    newOrgSecPathDict[ coreTBP ] = [ sec for sec in tempOrgSecs \n                                                      if ( np.logical_or.reduce(rxnMat[np.array( currPath ).astype(int)]) * 1)[ sec ] ]\n\n                secsUsed = np.append(secsUsed, unlistify(tempOrgSecPathDict.values()) + unlistify(newOrgSecPathDict.values()))\n                \n                secDB.append( ( firstSecUsed, secondSecUsed ) )\n                delEDB.append( ( redoxFitCost(newOrgRxns, currExchangeRatio) - fittestOrgFit, \n                                 redoxFitCost(tempOrgRxns, currExchangeRatio) - fittestOrgFit ) )\n                delSDB.append( ( len(newOrgRxns) - fittestOrgLen, \n                                 len(tempOrgRxns) - fittestOrgLen ) )\n\n                newProf = np.array( [ sum( stoich_matrix[ rxn ][ Energy ] * [ 1, 3, 3 ] ) \n                                      for rxn in newOrgRxns ] )\n                oldProf = np.array( [ sum( stoich_matrix[ rxn ][ Energy ] * [ 1, 3, 3 ] ) \n                                      for rxn in tempOrgRxns ] )\n                fracNeutral1, fracNeutral2 = np.count_nonzero( newProf == 0 ) / len( newOrgRxns ), np.count_nonzero( oldProf == 0 ) / len( tempOrgRxns )\n                fracConsuming1, fracConsuming2 = np.count_nonzero( newProf < 0 ) / len( newOrgRxns ), np.count_nonzero( oldProf < 0 ) / len( tempOrgRxns )\n                fracProducing1, fracProducing2 = np.count_nonzero( newProf > 0 ) / len( newOrgRxns ), np.count_nonzero( oldProf > 0 ) / len( tempOrgRxns )\n\n                neutralCFNDB.append( ( fracNeutral1, fracNeutral2 ) )\n                consumeCFNDB.append( ( fracConsuming1, fracConsuming2 ) )\n                produceCFNDB.append( ( fracProducing1, fracProducing2 ) )\n\n                # neutralAUTDB, consumeAUTDB, produceAUTDB = [], [], []\n                # for currOrgRxns in tqdm( randOrgList[ : 20000] ):\n                #     currProf = np.array( [ sum( stoich_matrix[ rxn ][ Energy ] * [ 1, 3, 3 ] ) \n                #                       for rxn in currOrgRxns ] )\n                #     neutralAUTDB.append( np.count_nonzero( currProf == 0 ) / len( currOrgRxns) )\n                #     consumeAUTDB.append( np.count_nonzero( currProf < 0 ) / len( currOrgRxns) )\n                #     produceAUTDB.append( np.count_nonzero( currProf > 0 ) / len( currOrgRxns) )\n\n                # if smallestOrgLen * 1.5 >= len(newOrgRxns) and smallestOrgLen * 1.5 >= len(tempOrgRxns):\n                if fittestOrgFit <= redoxFitCost( newOrgRxns, currExchangeRatio ) and fittestOrgFit <= redoxFitCost( tempOrgRxns, currExchangeRatio ):\n                    fitterDB.append((newOrgRxns, tempOrgRxns))\n                    fitterSecDB.append( ( firstSecUsed, secondSecUsed ) )\n                    pathDB.append( ( newOrgPathDict, tempOrgPathDict ) )\n                    depKinds.append(tempdepKinds[-1])\n                    oNeeded[ -1 ] += [ float( np.mean( [ redoxFitCost( newOrgRxns,                                 currExchangeRatio ) - fittestOrgFit,\n                                                         redoxFitCost( tempOrgRxns, currExchangeRatio) - fittestOrgFit ] )               ) ]\n\n                break\n\n    pNeeded.append( len( fitterDB ) / len( secDB ) )\n",
+			"file": "redox_sweep.py",
+			"file_size": 15843,
+			"file_write_time": 131407691264817379,
+			"settings":
+			{
+				"buffer_size": 15844,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "import networkx as nx\n\nallNutrients = [ cpd_string_dict[ id_to_kegg[ i ] ] for i in nutrientSet ]\nnullPathArr = np.array( [] )\n\nfor currOrgIndex in tqdm( range( NUM_RAND_ORGS ) ):\n    tGraph = giveOrgMetGraph( randOrgList[ currOrgIndex ] )\n    tByps = [ cpd_string_dict[ id_to_kegg[ i ] ] for i in bypList[ currOrgIndex ] ]\n\n    # Getting all distances between the byproducts and nutrients when a path exists.\n    for tNut in allNutrients:\n        for tByp in tByps:\n            try:\n                np.append( nullPathArr, nx.shortest_path_length( tG, tNut, tByp ) )\n            except:\n                pass\n",
+			"settings":
+			{
+				"buffer_size": 609,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "plot_mutualisms.py",
+			"settings":
+			{
+				"buffer_size": 6897,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "import numpy as np\nimport random\nfrom uniqify import uniqify\nfrom gen_scopeGraphs import genMetGraph\nfrom load_data import *\nfrom fit_cost import fitCost, nutrientsConsumed\n\ndef genPathDict( saveDir, prefix, Core ):\n    pathDict = {}\n\n    # Iterating over all core molecules.\n    for coreTBP in Core:\n        pathDict[ coreTBP ] = []\n\n        for i in range( 10 ):\n            # Loading the relevant files.\n            currRxns = np.genfromtxt( saveDir + prefix + '_core' + str(coreTBP) + '_' + str(i) + '.txt' ).astype(int)\n\n            # Failsafe for when only one reaction is in the list.\n            currRxns = np.append( np.array( [] ), currRxns )\n\n            # Checking if the pathway consumes a nutrient in the set.\n            # if not nutrientsConsumed( currRxns ):\n            #     continue\n\n            # Adding it to the path dictionary.\n            pathDict[ coreTBP ].append( currRxns )\n\n    return pathDict\n\n#-------------------------------------------------------------------------\n\n# def secGenPathDict( saveDir, prefix, matchLib, Core ):\n#     pathDict = { ID : {} for ID in matchLib.values() }\n#     exceptions  = set()\n\n#     # Iterating over all core molecules.\n#     for ID in list( matchLib.values() ):\n#         for coreTBP in Core:\n#             pathDict[ ID ][ coreTBP ] = []\n\n#             for i in range( 10 ):\n#                 # Loading the relevant files.\n#                 try:\n#                     currRxns = np.genfromtxt( saveDir +  str(ID) + '_' + prefix + '_core' + str(coreTBP) + '_' + str(i) + '.txt' ).astype(int)\n\n#                     # Failsafe for when only one reaction is in the list.\n#                     currRxns = np.append( np.array( [] ), currRxns )\n\n#                     # Adding it to the path dictionary.\n#                     pathDict[ ID ][ coreTBP ].append( currRxns )\n#                 except:\n#                     exceptions.add( ID )\n\n#     for thisID in exceptions:\n#         pathDict.pop( thisID )\n\n#     return pathDict\n\n#-------------------------------------------------------------------------\n\ndef secGenPathDict( saveDir, prefix, matchLib, Core ):\n    pathDict = {}\n    exceptions  = set()\n\n    # Iterating over all core molecules.\n    for ID in list( matchLib.values() ):\n        for coreTBP in Core:\n            pathDict[ coreTBP ] = []\n\n            for i in range( 10 ):\n                # Loading the relevant files.\n                try:\n                    currRxns = np.genfromtxt( saveDir +  str(ID) + '_' + prefix + '_core' + str(coreTBP) + '_' + str(i) + '.txt' ).astype(int)\n\n                    # Failsafe for when only one reaction is in the list.\n                    currRxns = np.append( np.array( [] ), currRxns )\n\n                    # Adding it to the path dictionary.\n                    if currRxns not in pathDict[ coreTBP ]:\n                        pathDict[ coreTBP ].append( currRxns )\n                except:\n                    exceptions.add( ID )\n\n    return pathDict\n\n#-------------------------------------------------------------------------\ndef genRandOrg( pathDict ):\n    orgRxns = np.array( [ ] )\n    for coreTBP in Core:\n\n        # Picking a path at random from the dictionary that generates\n        # the current core molecule.\n        orgRxns = np.append( orgRxns, random.choice( pathDict[ coreTBP ] ) )\n    \n    # Returning the unique bunch of reactions that correspond \n    # to the individual.\n    return np.array( uniqify( orgRxns ) ).astype(int)\n\n#-------------------------------------------------------------------------\n\ndef sortedGenOrg( pathDict, sortFunc = fitCost, optFunc = max ):\n    orgRxns = np.array( [ ] )\n    for coreTBP in Core:\n\n        # Creating a list of size of pathways that produce the\n        # current core molecule.\n        sortList = [ sortFunc( path ) for path in pathDict[ coreTBP ] ]\n\n        # Picking that path which has smallest size.\n        orgRxns = np.append( orgRxns, pathDict[ coreTBP ][ sortList.index( optFunc( sortList ) ) ] )\n    \n    # Returning the unique bunch of reactions that correspond \n    # to the individual.\n    return np.array( uniqify( orgRxns ) ).astype(int)\n\n#-------------------------------------------------------------------------\n\ndef saveOrgMetGraph( orgRxns, orgFileName ):\n    import networkx as nx\n    orgRxnVec = np.zeros( len( rxnMat ) )\n    orgRxnVec[ orgRxns ] = 1\n\n    # Generating the corresponding metabolite graph for the organism.\n    orgMetGraph = genMetGraph( orgRxnVec, rxnMat, prodMat )\n\n    # Mapping the metabolite IDs in the graph to names.\n    mGMapping = { n: cpd_string_dict[ id_to_kegg[ int( n[ 1 : ] ) ] ] \n                  for n in orgMetGraph.nodes() }\n\n    # Removing the currency nodes so that they don't muck \n    # up the visualization.\n    currencyNodes = ['C' + str(n) for n in Currency]\n    orgMetGraph.remove_nodes_from(currencyNodes)\n\n    # Relabeling the nodes to names now.\n    orgMetGraph = nx.relabel_nodes(orgMetGraph, mGMapping)\n\n    # Saving the metabolite graph corresponding to the organism.\n    nx.write_graphml( orgMetGraph, orgFileName )\n\n#-------------------------------------------------------------------------\n\ndef giveOrgMetGraph( orgRxns ):\n    import networkx as nx\n    orgRxnVec = np.zeros( len( rxnMat ) )\n    orgRxnVec[ orgRxns ] = 1\n\n    # Generating the corresponding metabolite graph for the organism.\n    orgMetGraph = genMetGraph( orgRxnVec, rxnMat, prodMat )\n\n    # Mapping the metabolite IDs in the graph to names.\n    mGMapping = { n: cpd_string_dict[ id_to_kegg[ int( n[ 1 : ] ) ] ] \n                  for n in orgMetGraph.nodes() }\n\n    # Removing the currency nodes so that they don't muck \n    # up the visualization.\n    currencyNodes = ['C' + str(n) for n in Currency]\n    orgMetGraph.remove_nodes_from(currencyNodes)\n\n    # Relabeling the nodes to names now.\n    orgMetGraph = nx.relabel_nodes(orgMetGraph, mGMapping)\n\n    # Returning the metabolite graph corresponding to the organism.\n    return orgMetGraph\n\n#-------------------------------------------------------------------------\n\n",
+			"file": "org_generators.py",
+			"file_size": 6032,
+			"file_write_time": 131448348643320681,
+			"settings":
+			{
+				"buffer_size": 6033,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "import numpy as np\nimport matplotlib.pyplot as plt\nfrom org_generators import *\nfrom sec_byproducts import secByproducts\nfrom load_data import *\nfrom fit_cost import *\n\nsaveDir = 'prebSet_networks/'\nprefix = 'prebSeed_randRxnSets'\n\n# Pulling out the pathway dictionary from the pregenerated folder.\npathDict = genPathDict( saveDir, prefix, Core )\n\n# Generating random organism generalist reaction sets.\ncurrExchangeRatio = 1.0\nNUM_RAND_ORGS = 50000\nrandOrgLenList, randOrgFitList, randOrgBmsList = np.array( [] ), np.array( [] ), np.array( [] )\nrandOrgList = []\nnumByps = np.array( [] )\nbypArr = np.array( [] )\nfor i in range( NUM_RAND_ORGS ):\n    # Generating a random organism from a pregenerated \n    # path dictionary.\n    orgRxns = genRandOrg( pathDict )\n\n    # If no nutrients consumed, repeat.\n    if not nutrientsConsumed( orgRxns ):\n        i -= 1\n        continue\n\n    # Calculating the size of the organism and its fitness.\n    randOrgLenList = np.append( randOrgLenList, len( orgRxns ) )\n    randOrgFitList = np.append( randOrgFitList, redoxFitCost( orgRxns, currExchangeRatio ) )\n    randOrgBmsList = np.append( randOrgBmsList, biomassCost( orgRxns ) )\n\n    # Keeping a list of generated organisms.\n    randOrgList.append( orgRxns )\n    \n    # Updating the list of byproducts in the network.\n    bypArr = np.append( bypArr, np.nonzero( secByproducts( orgRxns, rxnMat, prodMat, Core ) )[0] )\n    numByps = np.append( numByps, len( np.nonzero( secByproducts( orgRxns, rxnMat, prodMat, Core ) )[0] ) )\n\n# Generating the smallest generalist characteristics.\nsmallestOrgLen = min( randOrgLenList[ np.where( randOrgLenList == min( randOrgLenList ) )[0] ] )\nfittestOrgLen = min( randOrgLenList[ np.where( randOrgFitList == max( randOrgFitList ) )[0] ] )\nmaxBmsOrgLen = min( randOrgLenList[ np.where( randOrgBmsList == max( randOrgBmsList ) )[0] ] )\n\n# Generating the fittest generalist characteristics.\nsmallestOrgFit = max( randOrgFitList[ np.where( randOrgLenList == min( randOrgLenList ) )[0] ] )\nfittestOrgFit = max( randOrgFitList[ np.where( randOrgFitList == max( randOrgFitList ) )[0] ] )\nmaxBmsOrgFit = max( randOrgFitList[ np.where( randOrgBmsList == max( randOrgBmsList ) )[0] ] )\n\n# Generating the most biomass-producing generalist characteristics.\nsmallestOrgBms = max( randOrgBmsList[ np.where( randOrgLenList == min( randOrgLenList ) )[0] ] )\nfittestOrgBms = max( randOrgBmsList[ np.where( randOrgFitList == max( randOrgFitList ) )[0] ] )\nmaxBmsOrgBms = max( randOrgBmsList[ np.where( randOrgBmsList == max( randOrgBmsList ) )[0] ] )\n\n#-------------------------------------------------------------------------\n\n# Generating the size distribution.\nfig, ax = plt.subplots(1)\n\nmyWeights = np.ones_like( randOrgLenList ) / len ( randOrgLenList )\nax.hist( randOrgLenList, bins = 25, color = 'darkorange', weights = myWeights, histtype = 'stepfilled' )\nax.set_xlabel( 'Size of metabolic network' )\nax.set_ylabel( 'Fraction of species' )\n\nax.set_xlim( min( randOrgLenList ) - 10, max( randOrgLenList ) + 10 )\nax.axvline( smallestOrgLen, color='darkorange', linestyle='dashed', linewidth=2.5 )\nax.axvline( fittestOrgLen, color='dodgerblue', linestyle='dashed', linewidth=2.5 )\nax.axvline( maxBmsOrgLen, color='mediumseagreen', linestyle='dashed', linewidth=2.5)\nplt.savefig('plots_170425/met_size_prebMed_anaerobic.svg')\nplt.savefig('plots_170425/met_size_prebMed_anaerobic.png')\nplt.close()\n\n#-------------------------------------------------------------------------\n\n# Generating the energy yield distribution.\nfig, ax = plt.subplots(1)\n\nmyWeights = np.ones_like( randOrgFitList ) / len ( randOrgFitList )\nax.hist( randOrgFitList, bins = 25, color = 'dodgerblue', weights = myWeights, histtype = 'stepfilled' )\nax.set_xlabel( 'Energy yield of metabolic network' )\nax.set_ylabel( 'Fraction of species' )\n\nax.set_xlim( min( randOrgFitList ) - 1, max( randOrgFitList ) + 1 )\nax.axvline( smallestOrgFit, color='darkorange', linestyle='dashed', linewidth=2.5)\nax.axvline( fittestOrgFit, color='dodgerblue', linestyle='dashed', linewidth=2.5)\nax.axvline( maxBmsOrgFit, color='mediumseagreen', linestyle='dashed', linewidth=2.5)\n\nplt.savefig('plots_170425/met_fitn_prebMed_anaerobic.svg')\nplt.savefig('plots_170425/met_fitn_prebMed_anaerobic.png')\nplt.close()\n\n#-------------------------------------------------------------------------\n\n# Generating the biomass yield distribution.\nfig, ax = plt.subplots(1)\n\nmyWeights = np.ones_like( randOrgBmsList ) / len ( randOrgBmsList )\nax.hist( randOrgBmsList, bins = 15, color = 'mediumseagreen', weights = myWeights, histtype = 'stepfilled' )\n\nax.set_xlabel( 'Biomass yield of metabolic network' )\nax.set_ylabel( 'Fraction of species' )\nax.set_xlim( min( randOrgBmsList ) - 0.5, max( randOrgBmsList ) + 0.2 )\n\nax.axvline( smallestOrgBms, color='darkorange', linestyle='dashed', linewidth=2.5)\nax.axvline( maxBmsOrgBms, color='mediumseagreen', linestyle='dashed', linewidth=2.5)\nax.axvline( fittestOrgBms, color='dodgerblue', linestyle='dashed', linewidth=2.5)\n\nplt.savefig('plots_170425/met_biom_prebMed_anaerobic.svg')\nplt.savefig('plots_170425/met_biom_prebMed_anaerobic.png')\nplt.close()\n\n#-------------------------------------------------------------------------\n\n# Generating the byproduct distribution.\nsecID, counts = np.unique( bypArr, return_counts = True )\n\n# Removing AMP from this list, have to add it to currency metabolites.\nsecID, counts = np.delete( secID, np.where( secID == 15 ) ), np.delete( counts, np.where( secID == 15 ) )\nsecID, counts = np.delete( secID, np.where( secID == 15 ) ), np.delete( counts, np.where( secID == 457 ) )\nsecID = [ secID for ( counts, secID ) in sorted( zip( counts, secID ), key=lambda pair: pair[0], reverse = True ) ]\ncounts = [ counts for ( counts, secID ) in sorted( zip( counts, secID ), key=lambda pair: pair[0], reverse = True  ) ]\n\n# Normalizing counts to number of organisms generated.\ncounts = np.divide( counts, len(secDB) )\n\n# Generating a bar chart.\nind = np.arange( len( secID ) )\nwidth = 0.25\nfig, ax = plt.subplots( 1 )\nrects1 = ax.bar( ind, counts, width, color='darkorange' )\nax.set_xticks( ind + width / 2 )\nax.set_xticklabels( [ cpd_string_dict[ id_to_kegg [ i ] ] for i in secID ], rotation = 'vertical' )\nax.set_ylabel( 'Frequency of secretion' )\nfig.tight_layout()\nplt.savefig('plots_170425/byp_prebMed_anaerobic.svg')\nplt.savefig('plots_170425/byp_prebMed_anaerobic.png')\nplt.close()\n\n#-------------------------------------------------------------------------\n\n# Generating the size-yield scatter.\nimport seaborn as sns\nsns.set( font_scale=1.2, style = 'ticks' )\nsns.jointplot( randOrgLenList, randOrgFitList, kind = 'kde', color = 'gray', gridsize = 16 ).set_axis_labels('Network size', 'Energy yield')\nplt.tight_layout()\nplt.show()\n\nplt.savefig('plots_170425/size_fitn_corr_prebMed_aerobic.svg')\nplt.savefig('plots_170425/size_fitn_corr_prebMed_aerobic.png')\nplt.close()\n\n#-------------------------------------------------------------------------\n\n# Generating the byproduct-yield scatter.\nimport seaborn as sns\nsns.set( style = 'ticks' )\nsns.jointplot( randOrgLenList, numByps, kind = 'hex', color = 'darkorange' ).set_axis_labels('Size of metabolic network', 'Number of byproducts')\nplt.tight_layout()\nplt.savefig('plots_170425/size_nbyp_corr_prebMed_anaerobic.svg')\nplt.savefig('plots_170425/size_nbyp_corr_prebMed_anaerobic.png')\nplt.close()\n",
+			"file": "plot_dists.py",
+			"file_size": 7316,
+			"file_write_time": 131394013703080533,
+			"settings":
+			{
+				"buffer_size": 7370,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "import numpy as np\nfrom tqdm import tqdm\nfrom sat_marker import markSatMetsRxns\nfrom fit_cost import fitCost\n\ndef aut_getNutrientShiftResults( randOrgList, nutrientSet, rxnMat, prodMat, \n                                 sumRxnVec, Core, Currency ):\n    \"\"\"\n    Gets a set of organisms and a set of nutrients and performs random nutrient shifts on each. Marks all achievable molecules on this shifted nutrient set, and tests if the organism survives, and when it does, does its yield increase or decrease.\n\n    ARGUMENTS:\n    randOrgList (list): set of reaction indices for each organism's metabolic network.\n    nutrientSet (list): custom IDs of nutrients originally in the environment.\n    rxnMat (np.array): matrix of shape (R x M) that lists reactants in reactions.\n    prodMat (np.array): matrix of shape(R x M) that lists products in reactions.\n    sumRxnVec (np.array): vector of size R that lists the number of reactants in each reaction.\n    Core (list): custom IDs of core molecules.\n    Currency (list): custom IDs of currency molecules.\n\n    RETURNS:\n    notSurvive (int): number of shift cases where the organism cannot make all core molecules.\n    yieldInc (int): number of shift cases where the organism's yield increases.\n    yieldDec (int): number of shift cases where the organism's yield decreases.\n    numCoresActive (list): number of core molecules that could still be made after shift if dead.\n    \"\"\"\n    yieldDec, yieldInc, notSurvive = 0, 0, 0\n    deltaYields, normDeltaYields, allDeltaYields = [], [], []\n    numCoresActive = []\n    for orgRxns in tqdm( randOrgList ):\n        # Get a vector of reactants in the current network.\n        reactVec = np.logical_or.reduce( rxnMat[ orgRxns ] ) * 1\n        allowedNutrients = np.where( reactVec == 1 )[0]\n\n        # Nutrient shifting pipeline.\n        randShiftedNutrient = np.random.choice( [ n for n in allowedNutrients \n                                                  if n not in nutrientSet ] )\n        shiftedNutrientSet = list( np.append( np.random.choice(nutrientSet),\n                                              randShiftedNutrient ) )\n\n        # Testing for survival on this nutrient set.\n        satRxns = orgRxns[:]\n        currSatRxnVec = np.zeros( len( rxnMat ) )\n        currSatRxnVec[ satRxns ] = 1\n        tempSatRxnVec = np.copy( currSatRxnVec )\n        tempSatMetVec, tempSatRxnVec = markSatMetsRxns( tempSatRxnVec, rxnMat, prodMat, \n                                                        sumRxnVec, [], shiftedNutrientSet, \n                                                        Currency )\n\n        # Survival guaranteed.\n        yieldDiff = fitCost( np.nonzero( tempSatRxnVec )[0], \n                             shiftedNutrientSet ) - fitCost( orgRxns, nutrientSet )\n\n        if tempSatMetVec[Core].all():\n            deltaYields.append( yieldDiff )\n            normDeltaYields.append( yieldDiff / fitCost( orgRxns, nutrientSet ) )\n            # Checking if yield increases or decreases.\n            if yieldDiff < 0:\n                yieldDec += 1\n            else:\n                yieldInc += 1\n        else:\n            notSurvive += 1\n            numCoresActive.append( np.count_nonzero( tempSatMetVec[ Core ] ) )\n\n        allDeltaYields.append( yieldDiff )\n\n    return notSurvive, yieldInc, yieldDec, numCoresActive, deltaYields, normDeltaYields, allDeltaYields\n\n#--------------------------------------------------------------------------------------------------#--------------------------------------------------------------------------------------------------\n\ndef cfn_getNutrientShiftResults( randFitterSet, secList, nutrientSet, \n                                 rxnMat, prodMat, sumRxnVec, Core, Currency ):\n    \"\"\"\n    Gets a set of pairs of cross-feeding organisms and a set of nutrients and performs random nutrient shifts on each. Marks all achievable molecules on this shifted nutrient set, and tests if both organisms survive, and when they do, does their yield increase or decrease.\n\n    ARGUMENTS:\n    randFitterSet (list): set of pair of reaction indices for each pair of organisms' metabolic networks.\n    secList (list): set of pairs of custom IDs of metabolites secreted by first to second and vice versa.\n    nutrientSet (list): custom IDs of nutrients originally in the environment.\n    rxnMat (np.array): matrix of shape (R x M) that lists reactants in reactions.\n    prodMat (np.array): matrix of shape(R x M) that lists products in reactions.\n    sumRxnVec (np.array): vector of size R that lists the number of reactants in each reaction.\n    Core (list): custom IDs of core molecules.\n    Currency (list): custom IDs of currency molecules.\n\n    RETURNS:\n    notSurvive (int): number of shift cases where both organisms cannot make all core molecules.\n    notSec (int): number of shift cases where the secretions where lost.\n    yieldInc (int): number of shift cases where both organisms yield increases.\n    yieldDec (int): number of shift cases where both organisms yield decreases.\n    numCoresActive (list): number of core molecules that could still be made after shift if dead.\n    \"\"\"\n    yieldDec, yieldInc, notSurvive, notSec = 0, 0, 0, 0\n    intNotLost = 0\n    deltaYields, normDeltaYields, allDeltaYields = [], [], []\n    numCoresActive = []\n    thisIter = -1\n    for ( o1Rxns, o2Rxns ) in tqdm( randFitterSet ):\n        thisIter += 1\n        # Get a vector of reactants present in both networks.\n        reactVec = np.logical_or( np.logical_or.reduce( rxnMat[ o1Rxns ] ) * 1,\n                                   np.logical_or.reduce( rxnMat[ o2Rxns ] ) * 1 )\n        allowedNutrients = np.where( reactVec == 1 )[0]\n\n        # Nutrient shifting pipeline.\n        randShiftedNutrient = np.random.choice( [ n for n in allowedNutrients \n                                                  if n not in nutrientSet ] )\n        shiftedNutrientSet = list( np.append( np.random.choice(nutrientSet),\n                                              randShiftedNutrient ) )\n\n        # Testing for survival on this nutrient set.\n        sat1Rxns, sat2Rxns = o1Rxns[:], o2Rxns[:]\n        currSatRxnVec1, currSatRxnVec2 = np.zeros( len( rxnMat ) ), np.zeros( len( rxnMat ) )\n        currSatRxnVec1[ sat1Rxns ], currSatRxnVec2[ sat2Rxns ] = 1, 1\n        tempSatRxnVec1, tempSatRxnVec2 = np.copy( currSatRxnVec1 ), np.copy( currSatRxnVec2 )\n        tempSatMetVec1, tempSatRxnVec1 = markSatMetsRxns( tempSatRxnVec1, rxnMat, prodMat, \n                                                          sumRxnVec, [], shiftedNutrientSet, \n                                                          Currency )\n        tempSatMetVec2, tempSatRxnVec2 = markSatMetsRxns( tempSatRxnVec2, rxnMat, prodMat, \n                                                          sumRxnVec, [], shiftedNutrientSet, \n                                                          Currency )\n        # Survival guaranteed.\n        if tempSatMetVec1[ Core ].all() and tempSatMetVec2[ Core ].all():\n            yieldDiff1 = fitCost( np.nonzero( tempSatRxnVec1 )[0], \n                                  shiftedNutrientSet ) - fitCost( o1Rxns, nutrientSet )\n            yieldDiff2 = fitCost( np.nonzero( tempSatRxnVec2 )[0], \n                                  shiftedNutrientSet ) - fitCost( o2Rxns, nutrientSet )\n            deltaYields += [ yieldDiff1, yieldDiff2 ]\n            normDeltaYields += [ yieldDiff1 / fitCost( o1Rxns, nutrientSet ), \n                                 yieldDiff2 / fitCost( o2Rxns, nutrientSet ) ]\n\n            if ( tempSatMetVec1[ secList[ thisIter ][ 0 ] ].all() and \n                 tempSatMetVec2[ secList[ thisIter ][ 1 ] ].all() ):\n                intNotLost += 1\n                # Checking if yield increases or decreases.\n                if yieldDiff1 < 0 and yieldDiff2 < 0:\n                    yieldDec += 1\n                else:\n                    yieldInc += 1\n            else:\n                notSec += 1\n                numCoresActive.append( np.count_nonzero( tempSatMetVec1[ Core ] ) - 1 )\n                numCoresActive.append( np.count_nonzero( tempSatMetVec2[ Core ] ) - 1)\n\n        else:\n            notSurvive += 1\n            numCoresActive.append( np.count_nonzero( tempSatMetVec1[ Core ] ) )\n            numCoresActive.append( np.count_nonzero( tempSatMetVec2[ Core ] ) )\n\n    return notSurvive, notSec, yieldInc, yieldDec, numCoresActive, deltaYields, normDeltaYields, intNotLost\n\n",
+			"file": "nutrient_shift_tests.py",
+			"file_size": 7699,
+			"file_write_time": 131394013703400533,
+			"settings":
+			{
+				"buffer_size": 8402,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "fit_cost.py",
+			"settings":
+			{
+				"buffer_size": 1483,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "expand_seed.py",
+			"settings":
+			{
+				"buffer_size": 2916,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "load_data.py",
+			"settings":
+			{
+				"buffer_size": 2845,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "subli",
+		"selected_items":
+		[
+			[
+				"subli",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"distractionless: Documentation ",
+				"distractionless: Documentation (English)"
+			],
+			[
+				"distr",
+				"distractionless: Documentation (English)"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"theme",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"spell",
+				"Google Spell Check"
+			],
+			[
+				"them",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"anaconda",
+				"Anaconda: Display object docs"
+			],
+			[
+				"late",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"lisp",
+				"Set Syntax: Lisp"
+			],
+			[
+				"google",
+				"Google Spell Check"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"siblime",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"anaconda lint",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"sublime enable",
+				"SublimeLinter: Enable Debug Mode"
+			],
+			[
+				"sublimelin",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"pylint",
+				"Preferences: SublimeLinter Key Bindings – Default"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"subl",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"fold",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"uno",
+				"Code Folding: Unfold All"
+			],
+			[
+				"lint",
+				"Anaconda: Next lint error"
+			],
+			[
+				"sideba",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"unfold",
+				"Code Folding: Unfold All"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"git commit",
+				"Git: Quick Commit (repo, only already added files)"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"colro",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"latex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"title",
+				"Convert Case: Title Case"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Case",
+				"Convert Case: Lower Case"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/plots_170430"
+	],
+	"file_history":
+	[
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/print_progress_bar.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/nutrient_shift_tests_2.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/redox_many_steps_away.py",
+		"/home/guest/Dropbox/Akshit/ncbs_summer_2013_repo/infectedBacteriaCoarse_phageTournament.cpp",
+		"/home/guest/Downloads/glyco.js",
+		"/home/guest/work/ecoli/ecoli_rids.txt",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/redox_init_generalist_ground.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/display_community.py",
+		"/home/guest/work/cross_feeding_methods_results_draft/cross_feeding_methods_results_draft.tex",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/plot_mutualisms.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/nutrient_shift_tests.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/rxn_removal_tests.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/find_secs.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/new_find_corrected_mutualisns.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/org_generators.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/only_one_step_away.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/sec_byproducts.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/give_reverse_scope.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/random_minimal_subgraph.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/wright_fisher_evolution/core_periphery_metrics.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/plots_170430/nutrientShiftECDFs.svg",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/building_cost_heatmap.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/sat_marker.py",
+		"/home/guest/Dropbox/reports/project_reports/thesis_proposal_20161011/akshit_ce2_report.tex",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/prune_checks.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/prune_org_net.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/give_scope.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/muti_test.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/possiblity_plots.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/fit_cost.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/create_sec_paths.py",
+		"/home/guest/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/guest/work/stable_marriage_microbes/assign_pairs_in_layer.py",
+		"/home/guest/work/stable_marriage_microbes/test_metabolic_strategies.py",
+		"/home/guest/work/stable_marriage_microbes/assign_microbes_nutrients.py",
+		"/home/guest/work/stable_marriage_microbes/params.py",
+		"/home/guest/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/guest/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/guest/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/guest/.config/sublime-text-3/Packages/SublimeLinter/Default (Linux).sublime-keymap",
+		"/home/guest/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/guest/work/stable_marriage_microbes/filter_surviving_microbes.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/bool2int.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/save_sec_paths.sh",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/find_more_secs.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/pop_gen/setup_objects.py",
+		"/home/guest/Downloads/Schedule.nb",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/load_data.py",
+		"/home/guest/Dropbox/reports/proposals/simons_diversity_stability_grasslands/diversity_stability_grasslands.tex",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/expand_seed.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/gen_path_df.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/gen_scopeGraphs.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/pop_gen/eigWithExistence.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/plot_dists.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/temp_dump.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/pop_gen/show_stable_mutualism.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/plots_170328/fitnComp_byp_prebMed.svg",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/plots_170328/fitnComp_byp_richMed.svg",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/plots_170328/sizeComp_byp_richMed.svg",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/plots_170328/sizeComp_byp_prebMed.svg",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/webweb_graphs/network.json",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/layered_assembly/longtime_size.dat",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/rand_withfit_min_subgraph.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/smallest_min_subgraph.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/fittest_minimal_subgraph.py",
+		"/home/guest/Documents/webweb/d3.v3.min.js",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/give_path_subgraph.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/networkExpansion/data/networks/network_filtered.mat",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/pathfinder_on_scope.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/scope_expander/display_community.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/pop_gen/no_interaction_control.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/pop_gen/run_sample_evo_dyn.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/pop_gen/test_infN_evo_dyn.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/layered_assembly/og_assembler_package.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/layered_assembly/recon_dist_plotter.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/pop_gen/setup_population.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/pop_gen/construct_popdyn_matrix.py",
+		"/home/guest/Downloads/Cytoscape_3_4_0_unix.sh.15167.dir/hs_err_pid15254.log",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/pop_gen/find_BMG.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/scope_expander/give_scope.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/scope_expander/pathfinder_on_scope.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/scope_expander/gen_scopeGraphs.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/scope_expander/expand_seed.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/pop_gen/new_builder.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/pop_gen/display_community.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/pop_gen/display_community.pyc",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/pop_gen/assembly_toolbox.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/pop_gen/assembly_toolbox.pyc",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/scope_expander/sample_medium.txt",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/pop_gen/gen_path_lib.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/pop_gen/func_code_dump.py",
+		"/home/guest/Dropbox/code_repo/job_scripts/job_script_8.sge",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/new_kegg/pull_mets.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/pop_gen/init_population.py",
+		"/home/guest/.ipython/extensions/line_profiler_ext.py",
+		"/home/guest/.ipython/extensions/memory_profiler_ext.py",
+		"/home/guest/.ipython/profile_default/ipython_config.py",
+		"/home/guest/.ipython/profile_default/ipython_kernel_config.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/pop_gen/.ipython/profile_default/ipython_kernel_config.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/pop_gen/stabilize_population.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/pop_gen/pull_new_kegg.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/new_kegg/pull_new_kegg.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/new_kegg/data_files/new_rxnids.txt",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/pop_gen/timeout.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/pop_gen/dat_170123/pops1_a0.0.dat",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/new_kegg/scaling_toolbox.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/new_kegg/timeout.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/new_kegg/assembly_toolbox.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/new_kegg/data_files/full_pure_stoich_matrix.dat",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/pop_gen/unlistify.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/pop_gen/testfunc.py.lprof",
+		"/home/guest/Dropbox/code_repo/miscellaneous/bioinformatics/pull_proteins_from_ncbi.py",
+		"/home/guest/Dropbox/code_repo/miscellaneous/bioinformatics/protein_annotations_akshit.ods",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/kegg_network/mapped_stoich_matrix.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/pop_gen/data_puller.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/pop_gen/main.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/pop_gen/pathways.txt",
+		"/home/guest/Dropbox/reports/project_reports/thesis_proposal_20161011/doc.tex",
+		"/home/guest/Dropbox/reports/project_reports/thesis_proposal_20161011/core_ids.txt",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/artificial_chem/setup_network.py",
+		"/home/guest/work/phage_decision/phagedecision.tex",
+		"/home/guest/work/phage_decision/phagedecision_29Jul2015.pdf",
+		"/home/guest/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/pop_gen/kegg_pathway_creator.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/pop_gen/plot_tools.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/pop_gen/scaling_toolbox.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/pop_gen/toolbox_sampler.py",
+		"/home/guest/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/pop_gen/backup_kegg_pathway_creator.py"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"<current file>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"o1RX",
+			"deltaYields",
+			"DeltaYields",
+			"deltaYields",
+			"1",
+			"10000",
+			"secList",
+			"1",
+			"prodDiff",
+			"randOrgFitList",
+			"fitterDB.append",
+			"fitCost",
+			"kde",
+			"hex",
+			"x",
+			"sizes",
+			"list(means.keys())",
+			"list(means.values())",
+			"oneeded",
+			"[]\n",
+			"oNeeded",
+			"oNeede",
+			"from",
+			"redoxFitCost",
+			"redox",
+			"fitcost",
+			"currExchange",
+			"redoxFitCost",
+			"fitCost",
+			"fitcost",
+			"3",
+			"del",
+			"P = ",
+			"secByproducts",
+			"bms_fitn_corr_prebMed_anaerobic",
+			"size",
+			"marginal",
+			") )",
+			"currOrgRxns",
+			"newOrgRxns )",
+			"= n",
+			"= ",
+			"[ np",
+			"[",
+			"delta",
+			"\\delta",
+			"Δ",
+			"font=footnotesize,",
+			"fitCost",
+			"caption",
+			"rxn_removal_dataset",
+			"genome_dataframe",
+			"supple",
+			"Cross-feeding networks are not ",
+			"caption",
+			"remRxn",
+			"frglList",
+			"o1",
+			"still pro",
+			"core",
+			"miter",
+			",",
+			"the organism's",
+			"Algorithm",
+			"tqdm",
+			"corePr",
+			"corePr\t",
+			"caption",
+			"still produces",
+			"union of all",
+			"print",
+			"minimal",
+			"core",
+			"fig3",
+			"units",
+			"Generating",
+			"caption",
+			"alg",
+			"buildHM",
+			"numRxnsShared",
+			"Algorithm",
+			"\\small",
+			"170424",
+			"nutrientSet",
+			"070424",
+			"170421",
+			"compFitness( tempOrgRxns )",
+			"compFitness( newOrgRxns )",
+			"fittestOrgFit",
+			"fitCost",
+			"mutualFitnesses",
+			"fitCost",
+			"plots_170401",
+			"plots_170328",
+			" and currency metabolites",
+			"and currency metabolites",
+			"currency metabolites",
+			"and the currency metabolites",
+			"currency",
+			"feeding",
+			"fontsize",
+			"\\texttt{\\textcolor{red}{",
+			"textcolor",
+			"\\texttt{\\textcolor",
+			"\\texttt{",
+			"$P$",
+			"given",
+			"methods}",
+			"methods",
+			"begin",
+			"tFlag",
+			"newOrgRxns",
+			"secPathDict",
+			"secPath",
+			"orgSec",
+			"assignedNutrients",
+			"where",
+			"lint",
+			"interpreter",
+			"lint",
+			"uniqi",
+			"newMicrobesin",
+			"currL",
+			"currLayer",
+			"assigned",
+			"###################################################################################################\n",
+			"np.nonzero",
+			"patch"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\delta",
+			"\\textcolor{red}{\\texttt{",
+			"\\texttt{\\textcolor{red}{",
+			"$RS$",
+			"###################################################################################################\n###################################################################################################\n###################################################################################################\n",
+			"o1g",
+			"markSatMetsRxnsVec",
+			"",
+			"mutualSizes",
+			"mutualFitnesses",
+			"prebMed",
+			"Med_anaerobic",
+			"org2",
+			"rich",
+			"temp",
+			"new",
+			"rich",
+			"preb",
+			"MetVec",
+			"RxnVec",
+			"augNutrientSet",
+			"coral",
+			"dodgerblue",
+			"darkviolet",
+			"=2.5",
+			"orgMetGraph",
+			"preb",
+			"isFitterSubset",
+			"metGraph",
+			"",
+			"full_pure",
+			"pathSet",
+			"",
+			"queue",
+			"list_of_hashes",
+			"register_magics",
+			"a",
+			"1.3",
+			"1.5",
+			".plot",
+			"plots_170205",
+			"stoich_pathway_library",
+			"< 0.0",
+			"> 0.0",
+			"< 0.0",
+			"170131",
+			"new_path.ordered_set",
+			"170125",
+			"170124",
+			"Env",
+			"",
+			"c_id",
+			"str(int(np.abs(reaction[r]))) + 'x' + ",
+			"str(int(np.abs(reaction[r]))) + ' ' + ",
+			"str(np.abs(reaction[r])) + ' ' + ",
+			"product",
+			"MU",
+			"nutrient",
+			"nutrients",
+			"survival probability",
+			"Results Expected",
+			"`core'",
+			"core",
+			"`core'",
+			"Currency + Energy",
+			"species assortment",
+			"str(id_to_kegg[r])",
+			"$\\eta$"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "many_steps_away.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14954,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8509,
+								8509
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3840.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "init_generalist_ground.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7714,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								698,
+								698
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2480,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1720,
+								1720
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 310.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "redox_sweep.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15844,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								830,
+								830
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 609,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "plot_mutualisms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6897,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								142,
+								142
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "org_generators.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6033,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3457,
+								3457
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1325.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "plot_dists.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7370,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"draw_centered": false,
+							"draw_indent_guides": true,
+							"draw_white_space": "selection",
+							"fold_buttons": true,
+							"gutter": true,
+							"line_numbers": true,
+							"rulers":
+							[
+							],
+							"scroll_past_end": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": "true",
+							"wrap_width": 100
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "nutrient_shift_tests.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8402,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "fit_cost.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1483,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								168,
+								168
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"draw_centered": false,
+							"draw_indent_guides": true,
+							"draw_white_space": "selection",
+							"fold_buttons": true,
+							"gutter": true,
+							"line_numbers": true,
+							"rulers":
+							[
+							],
+							"scroll_past_end": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true,
+							"wrap_width": 100
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "expand_seed.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2916,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								426,
+								426
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"draw_centered": false,
+							"draw_indent_guides": true,
+							"draw_white_space": "selection",
+							"fold_buttons": true,
+							"gutter": true,
+							"line_numbers": true,
+							"rulers":
+							[
+							],
+							"scroll_past_end": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": "true",
+							"wrap_width": 100
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "load_data.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2845,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								717,
+								717
+							]
+						],
+						"settings":
+						{
+							"draw_centered": false,
+							"draw_indent_guides": true,
+							"draw_white_space": "selection",
+							"fold_buttons": true,
+							"gutter": true,
+							"line_numbers": true,
+							"rulers":
+							[
+							],
+							"scroll_past_end": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"word_wrap": "true",
+							"wrap_width": 100
+						},
+						"translation.x": 0.0,
+						"translation.y": 210.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 106.0
+	},
+	"output.find_results":
+	{
+		"height": 106.0
+	},
+	"output.git":
+	{
+		"height": 106.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 106.0
+	},
+	"pinned_build_system": "",
+	"project": "cross_feeding_advantages.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"fit_c",
+				"fit_cost.py"
+			],
+			[
+				"fit",
+				"fit_cost.py"
+			],
+			[
+				"org_",
+				"org_generators.py"
+			],
+			[
+				"fitco",
+				"fit_cost.py"
+			],
+			[
+				"prin",
+				"print_progress_bar.py"
+			],
+			[
+				"print",
+				"print_progress_bar.py"
+			],
+			[
+				"give_",
+				"give_reverse_scope.py"
+			],
+			[
+				"give",
+				"give_scope.py"
+			],
+			[
+				"mutuali",
+				"plot_mutualisms.py"
+			],
+			[
+				"ex",
+				"expand_seed.py"
+			],
+			[
+				"exp",
+				"expand_seed.py"
+			],
+			[
+				"many",
+				"many_steps_away.py"
+			],
+			[
+				"man",
+				"many_steps_away.py"
+			],
+			[
+				"plot",
+				"plot_mutualisms.py"
+			],
+			[
+				"expan",
+				"expand_seed.py"
+			],
+			[
+				"randmin",
+				"random_minimal_subgraph.py"
+			],
+			[
+				"sec_",
+				"~/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/sec_byproducts.py"
+			],
+			[
+				"mu",
+				"~/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/plot_mutualisms.py"
+			],
+			[
+				"plot_d",
+				"~/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/reverse_scope_expander/plot_dists.py"
+			],
+			[
+				"pull",
+				"~/Dropbox/code_repo/sandeep_lab/toolbox_bacteria_cooperation/projects/new_kegg/pull_new_kegg.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/work/cross_feeding_methods_results_draft/cross_feeding_text.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 114.0,
+		"last_filter": "redo",
+		"selected_items":
+		[
+			[
+				"redo",
+				"redoxFitCost"
+			],
+			[
+				"sec",
+				"secByproducts"
+			],
+			[
+				"figure",
+				"Section: Key Figures"
+			],
+			[
+				"fitc",
+				"fitCost"
+			],
+			[
+				"randmIn",
+				"randMinSubnet"
+			],
+			[
+				"fitCo",
+				"fitCost"
+			],
+			[
+				"mark",
+				"markSatMetsRxns"
+			],
+			[
+				"fiC",
+				"fitCost"
+			],
+			[
+				"fitC",
+				"fitCost"
+			],
+			[
+				"prune",
+				"pruneOrgNet"
+			],
+			[
+				"markS",
+				"markSatMetsRxns"
+			],
+			[
+				"isCore",
+				"isCoreProduced"
+			],
+			[
+				"genRan",
+				"genRandOrg"
+			],
+			[
+				"randmI",
+				"randMinSubnet"
+			],
+			[
+				"fitCost",
+				"fitCost"
+			],
+			[
+				"genPath",
+				"genPathDict"
+			],
+			[
+				"rand",
+				"randMinSubnet"
+			],
+			[
+				"pruned",
+				"prunedSatsMets"
+			],
+			[
+				"martk",
+				"markSatMetsRxns"
+			],
+			[
+				"isCOre",
+				"isCoreProduced"
+			],
+			[
+				"randMin",
+				"randMinSubnet"
+			],
+			[
+				"randm",
+				"randMinSubnet"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"dfw_mode": false
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 172.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

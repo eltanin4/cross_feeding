@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="name" attr.type="string" for="graph" id="d0" />
+  <graph edgedefault="directed">
+    <data key="d0">()</data>
+    <node id="O-Phospho-L-serine" />
+    <node id="Hydrogen peroxide" />
+    <node id="D-Gluconic acid" />
+    <node id="Formaldehyde" />
+    <node id="D-Ribose 5-phosphate" />
+    <node id="Sulfate" />
+    <node id="D-Glucose 1-phosphate" />
+    <node id="AMP" />
+    <node id="alpha-D-Glucose 6-phosphate" />
+    <node id="L-Serine" />
+    <node id="2-Dehydro-3-deoxy-D-gluconate" />
+    <node id="D-Glyceraldehyde 3-phosphate" />
+    <node id="3-Phosphonooxypyruvate" />
+    <node id="3-Phospho-D-glycerate" />
+    <node id="Glycerone phosphate" />
+    <node id="Sulfite" />
+    <node id="alpha-D-Glucose" />
+    <node id="L-Alanine" />
+    <node id="D-Glucono-1,5-lactone" />
+    <node id="L-Glutamine" />
+    <node id="D-arabino-Hex-3-ulose 6-phosphate" />
+    <node id="2-Oxoglutarate" />
+    <node id="Pyruvate" />
+    <node id="Diphosphate" />
+    <node id="Ammonia" />
+    <node id="beta-D-Fructose 6-phosphate" />
+    <node id="L-Glutamate" />
+    <node id="beta-D-Glucose" />
+    <node id="D-Ribulose 5-phosphate" />
+    <node id="D-Glyceraldehyde" />
+    <node id="Adenylyl sulfate" />
+    <node id="Polyphosphate" />
+    <node id="beta-D-Fructose 1,6-bisphosphate" />
+    <node id="Orthophosphate" />
+    <edge source="L-Glutamate" target="2-Oxoglutarate" />
+    <edge source="L-Glutamate" target="O-Phospho-L-serine" />
+    <edge source="L-Glutamate" target="L-Alanine" />
+    <edge source="beta-D-Glucose" target="Hydrogen peroxide" />
+    <edge source="beta-D-Glucose" target="D-Glucono-1,5-lactone" />
+    <edge source="D-Ribulose 5-phosphate" target="D-Ribose 5-phosphate" />
+    <edge source="D-Glucono-1,5-lactone" target="D-Gluconic acid" />
+    <edge source="O-Phospho-L-serine" target="Orthophosphate" />
+    <edge source="O-Phospho-L-serine" target="L-Serine" />
+    <edge source="D-Glyceraldehyde 3-phosphate" target="3-Phospho-D-glycerate" />
+    <edge source="3-Phosphonooxypyruvate" target="2-Oxoglutarate" />
+    <edge source="3-Phosphonooxypyruvate" target="O-Phospho-L-serine" />
+    <edge source="3-Phospho-D-glycerate" target="3-Phosphonooxypyruvate" />
+    <edge source="D-Gluconic acid" target="2-Dehydro-3-deoxy-D-gluconate" />
+    <edge source="Sulfite" target="Hydrogen peroxide" />
+    <edge source="Sulfite" target="Sulfate" />
+    <edge source="Sulfate" target="Diphosphate" />
+    <edge source="Sulfate" target="Adenylyl sulfate" />
+    <edge source="D-arabino-Hex-3-ulose 6-phosphate" target="D-Ribulose 5-phosphate" />
+    <edge source="D-arabino-Hex-3-ulose 6-phosphate" target="Formaldehyde" />
+    <edge source="L-Glutamine" target="L-Glutamate" />
+    <edge source="L-Glutamine" target="Ammonia" />
+    <edge source="D-Glucose 1-phosphate" target="alpha-D-Glucose" />
+    <edge source="D-Glucose 1-phosphate" target="Orthophosphate" />
+    <edge source="Pyruvate" target="2-Oxoglutarate" />
+    <edge source="Pyruvate" target="L-Alanine" />
+    <edge source="alpha-D-Glucose" target="alpha-D-Glucose 6-phosphate" />
+    <edge source="alpha-D-Glucose" target="Polyphosphate" />
+    <edge source="alpha-D-Glucose" target="beta-D-Glucose" />
+    <edge source="alpha-D-Glucose" target="AMP" />
+    <edge source="alpha-D-Glucose 6-phosphate" target="beta-D-Fructose 6-phosphate" />
+    <edge source="alpha-D-Glucose 6-phosphate" target="D-Glucose 1-phosphate" />
+    <edge source="beta-D-Fructose 1,6-bisphosphate" target="Glycerone phosphate" />
+    <edge source="beta-D-Fructose 1,6-bisphosphate" target="D-Glyceraldehyde 3-phosphate" />
+    <edge source="2-Dehydro-3-deoxy-D-gluconate" target="D-Glyceraldehyde" />
+    <edge source="2-Dehydro-3-deoxy-D-gluconate" target="Pyruvate" />
+    <edge source="beta-D-Fructose 6-phosphate" target="beta-D-Fructose 1,6-bisphosphate" />
+    <edge source="beta-D-Fructose 6-phosphate" target="D-arabino-Hex-3-ulose 6-phosphate" />
+    <edge source="Orthophosphate" target="L-Glutamate" />
+    <edge source="Orthophosphate" target="Ammonia" />
+  </graph>
+</graphml>
